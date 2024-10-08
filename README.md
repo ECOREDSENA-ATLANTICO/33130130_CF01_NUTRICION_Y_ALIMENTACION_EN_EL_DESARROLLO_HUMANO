@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Principales componentes de los alimentos: su rol en el gasto energético y la fisiología humana.**sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/33130130_CF01_NUTRICION_Y_ALIMENTACION_EN_EL_DESARROLLO_HUMANO/#/](https://ecoredsena-atlantico.github.io/33130130_CF01_NUTRICION_Y_ALIMENTACION_EN_EL_DESARROLLO_HUMANO/#/)
 
 #
 

@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 5%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 18%
+    right: 6%
+  &-3
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 75%
+    right: 41%
 
 @keyframes float1
   0%
@@ -17,3 +21,53 @@
 
   100%
     transform: translateY(0px)
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translatex(0px)
+
+
+    
+.banner-principal .tarjeta   
+  background-image: url(../assets/curso/portada/fondo-banner-principal-s.png) !important
+  background-repeat: no-repeat      
+  background-position: bottom center
+  background-size: cover
+  @media (min-width: 768px) and (max-width:992px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-m.png) !important    
+  @media(min-width: 992px)
+    background-image: url(../assets/curso/portada/fondo-banner-principal.png) !important    
+
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/fondo-banner.svg)  !important  
+
+.slyder-a__bullets__item 
+  @media (max-width: $bp-max-xs)
+    margin: 0 5px    
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) 
+    .banner-principal__row .banner-principal__img 
+        /* padding-right: 3rem !important; */
+
+.banner-principal__row .banner-principal__img 
+    padding-right: 1.5rem !important
+
+@media (min-width: 576px) 
+    .banner-principal__img 
+        /* padding-top: 3rem !important; */
+    
+
+
+.banner-principal__img 
+    align-self: flex-end
+    /* padding-top: 1.5rem;
