@@ -60,8 +60,7 @@
   padding-right: 1rem
   &-1
     border-radius: 0 1rem 0 0
-    padding-left: 2rem
-    padding-right: 2rem
+    padding: 0.3rem 1.5rem
 
 
 .fnd-3
@@ -111,6 +110,19 @@
   &-2
     background: url('../assets/curso/temas/tema1/fnd-3.svg') no-repeat left top    
     background-size: cover
+
+.fnd-9
+  background-color: #DED6FD
+  &.acordion__activo    
+    background-color: #EEEAFE !important
+    .acordion__accion__btn--a 
+      background-color: #D8F263    
+.fnd-10
+  background-color: #ffffff !important
+  .acordion__accion__btn--a 
+    background-color: #AC9AFC    
+.img-tar
+  max-height: 80px
 .img-262
   max-height: 262px
   margin: auto
@@ -133,6 +145,12 @@
 .nar
   font-size: 0.6rem !important
   margin-top: 0.4%
+.ml
+  text-align: right
+  font-weight: 900
+  font-size: 2em
+  margin-bottom: 0
+  color: #DED6FD !important
 
 .nutrition-box 
   position: relative
@@ -158,7 +176,10 @@
     width: 150px
     z-index: 2
     display: initial !important
-
+  .car1
+    width: 291px !important
+    transform: translateY(-16%)
+    top: -14px
 .f1
   position: relative
 .background 
@@ -182,23 +203,124 @@
 
 .tbl
   td 
-    border: 1px solid #ccc!important
-    padding: 10px
-    vertical-align: top
+    padding: 5px 1rem
   td[rowspan="4"] 
-    background-color: #e6f4e4 !important
+    background-color: #CEF1CE !important
     font-weight: bold
     width: 20%
+    border-left: 2px solid #567D56
+    border-top: 2px solid #567D56
+    border-bottom: 2px solid #567D56
   td:nth-child(3) 
-    background-color: #e6e4f4 !important
+    background-color: #DED6FD !important
     font-weight: bold
     width: 20%
   td:nth-child(2), td:nth-child(4) 
     width: 30%
+  .t2
+    background-color: #E6F8E6 !important
+  .t4 
+    background-color: #EEEAFE !important
+    border-right: 2px solid #567D56
+  .bt1
+    border-top: 2px solid #567D56
+  .bb1
+    border-bottom: 2px solid #567D56    
+    border-right: 2px solid #567D56
+.tbl2
+  thead
+    td
+      border: 2px solid #567D56 !important
+      text-align: center
+      font-weight: 700
+  tbody
+    td
+      padding: 9px 40px
+      background-color: #ffffff !important
+      border-right: 2px solid #567D56
+      border-left: 2px solid #567D56
+    tr:last-child 
+      border-bottom: 2px solid #567D56
+.tc
+  tbody
+    td
+      text-align: center    
+.tbl3
+  td
+    padding: 10px 20px
+  thead
+    td
+      border: 2px solid #567D56 !important
+      text-align: center
+      font-weight: 700
+  tbody
+    td
+      padding: 9px 40px
+      border-right: 2px solid #567D56
+      border-left: 2px solid #567D56
+      text-align: center 
+    tr:last-child 
+      border-bottom: 2px solid #567D56      
+  td:nth-child(1) 
+    background-color: #ffffff
   td:nth-child(2) 
-    background-color: #f9f9f9 !important
+    background-color: #F6F4FE
+  td:nth-child(3) 
+    background-color: #EEEAFE
   td:nth-child(4) 
-    background-color: #f4f4f9 !important
+    background-color: #DED6FD
+  td:nth-child(5) 
+    background-color: #CEF1CE
+.tbl4
+  td
+    border: 2px solid #567D56 !important
+    background-color: #ffffff
+    text-align: center
+    padding: 10px 20px
+  thead
+    td
+      font-weight: 700    
+.tbl5
+  td
+    border: 2px solid #567D56 !important
+    background-color: #ffffff
+    padding: 10px 20px
+  thead
+    td
+      font-weight: 700
+      background-color: #D8F263        
 
+.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after
+    background-color: #ffffff
+.img-infografica__item
+    width: 3.5%
 
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #DED6FD
+  .crd_hover_txt--img
+    height: 400px 
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #AC9AFC
+    h6,p  
+      text-align: center
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em	  
+		
+		
 
+	    
