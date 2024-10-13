@@ -73,7 +73,7 @@
       .col-lg-8
 
         .nutrition-box.mb-5 
-          .content
+          .cont
             p.mb-0 Buena nutrición es el esfuerzo de múltiples disciplinas y para lograrla se requiere lo siguiente:
             p.mb-0 
               strong La aplicación de la ciencia en la agricultura y la tecnología para producir cantidades suficientes de alimentos vegetales y animales de alto valor nutritivo.
@@ -89,7 +89,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.f1
             .background
-            .content
+            .cont2
               .row.justify-content-center.d-flex
                 .col-sm-6.col-xl-5.mb-4.mb-xl-0
                   .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
@@ -248,8 +248,38 @@
         p.mb-0 - Efectos derivados del metabolismo de los componentes de la fibra.
 
  
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .row.align-items-center
+          .col-auto.mb-4
+            h3.mb-0.fnd-2-1.fnd-2 Alimentación
+
+          .titulo-sexto.color-acento-contenido
+            h5 Tabla 1.
+            span Efectos de la fibra alimentaria
 
 
+          .tabla-b.color-acento-contenido.mb-5.tbl
+            table
+              caption Nota. Sena
+
+              tr
+                td(rowspan='4') Efecto biológico:
+                td • Protección frente a las caries.
+                td(rowspan='4') Alimentos ricos en fibra producen:
+                td • Mayor masticación y salivación.
+              tr
+                td • Efecto anti nutriente.
+                td • Absorción de elementos minerales y vitaminas.
+              tr
+                td • Incrementa la absorción de agua sodio de colon.
+                td • Formación de ácidos grasos de cadena corta (AGCC).
+              tr
+                td • Protección frente a tóxicos.
+                td • Protección de xenobióticos.
+          .col-lg-8
+
+          .col-lg-4
 
 
 
