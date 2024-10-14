@@ -61,18 +61,20 @@
   &-1
     border-radius: 0 1rem 0 0
     padding: 0.3rem 1.5rem
-
+  &-2
+    border-radius: 1rem
+    padding: 0.3rem 1.5rem
 
 .fnd-3
   background-color: #DED6FD !important   
   border-radius: 1rem 
-  @media (min-width: 768px) 
+  @media (min-width: 769px) 
     border-radius: 1rem 0 0 1rem 
 
 .fnd-4
   background-color: #EEEAFE !important   
   border-radius: 1rem 
-  @media (min-width: 768px) 
+  @media (min-width: 769px) 
     border-radius: 0 1rem 1rem 0
 
 .fnd-5     
@@ -121,8 +123,17 @@
   background-color: #ffffff !important
   .acordion__accion__btn--a 
     background-color: #AC9AFC    
+.fnd-11
+  background-color: #F2FBF2 !important    
+.fnd-12
+  background-image: url(../assets/curso/temas/tema3/fnd-2.svg)   
+  position: relative
+  width: 100%
+  background-size: cover
+  background-repeat: no-repeat  
 .img-tar
   max-height: 80px
+
 .img-262
   max-height: 262px
   margin: auto
@@ -165,6 +176,9 @@
     margin-right: 0
   .pepper
     display: none
+  .cont-t    
+    margin-right: 0px 
+    
 
 @media (min-width: 768px) 
   .cont
@@ -177,9 +191,19 @@
     z-index: 2
     display: initial !important
   .car1
-    width: 291px !important
-    transform: translateY(-16%)
-    top: -14px
+    transform: translateY(4%)
+    top: 3px
+  .cont-t    
+    margin-right: 200px !important    
+@media (min-width: 1200px)   
+  .car1
+    width: 291px !important  
+    transform: translateY(-50%)
+    top: 50px
+  .cont-t
+    position: relative
+    z-index: 1
+    margin-right: 200px    
 .f1
   position: relative
 .background 
@@ -188,10 +212,12 @@
   left: 0
   right: 0
   height: 60%
-  background-color: #e8f6dc // Color de fondo verde claro
+  background-color: #e8f6dc 
   z-index: 1
   border-radius: 20px
   transform: translateY(-50%)
+.b1
+  background-color: #FDE7D6 !important  
 
 .cont2
   position: relative
@@ -244,7 +270,9 @@
 .tc
   tbody
     td
-      text-align: center    
+      text-align: center   
+.lb-1
+  border-bottom: 2px solid #FCC59A   
 .tbl3
   td
     padding: 10px 20px
@@ -280,6 +308,9 @@
   thead
     td
       font-weight: 700    
+.tbl-r
+  td
+    border: 2px solid #FCC59A !important
 .tbl5
   td
     border: 2px solid #567D56 !important
@@ -289,7 +320,25 @@
     td
       font-weight: 700
       background-color: #D8F263        
-
+.tbl6
+  td
+    border: 0px
+    text-align: center    
+  td:nth-child(1) 
+    font-weight: 700
+    color: #AC9AFC
+    border-left: 2px solid #567D56
+    border-right: 2px solid #567D56
+  thead 
+    td    
+      border-top: 2px solid #567D56
+  td:nth-child(2) 
+    border-left: 2px solid #567D56
+    border-right: 2px solid #567D56   
+  td
+    
+.tbb
+  border-bottom: 2px solid #567D56 !important
 .img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after
     background-color: #ffffff
 .img-infografica__item
@@ -320,7 +369,115 @@
     .crd_hover_txt--body
       p
         font-size: 0.85em	  
-		
-		
+$crd-icon-size: 85px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))) 
 
-	    
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  height: 200px
+
+  @media (min-width:1200px) and (max-width:1400px)  
+    height: 250px 
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #F3F1FB
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    		
+			
+		
+$crd-i: 85px
+$crd-w: calc(100% - ((#{$crd-i} / 2))) 
+
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 0.5rem 0.5rem 0.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-w
+    height: 100%    
+    background-color: #F2FBF2
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-i
+    margin-right: 15px
+    img   
+      width: $crd-i
+  &__txt
+    flex: 1 
+    order: 2    		
+
+.n-box 
+  position: relative
+  background: url('../assets/curso/temas/tema3/fnd-1.svg') no-repeat left top
+  background-size: cover
+  padding: 20px
+  border-radius: 20px 0 20px 0
+
+  .contt
+    position: relative
+    z-index: 1
+    margin-right: 0
+  .user
+    display: none
+  .cont-t    
+    margin-right: 0px 
+    
+
+@media (min-width: 768px) 
+  .contt
+    margin-right: 180px !important
+  .user
+    position: absolute
+    right: 20px
+    bottom: 0
+    width: 242px
+    z-index: 2
+    display: initial !important
+  .car1
+    transform: translateY(4%)
+    top: 3px
+  .cont-t    
+    margin-right: 200px !important    
+@media (min-width: 1200px)   
+  .car1
+    width: 291px !important  
+    transform: translateY(-50%)
+    top: 50px
+  .cont-t
+    position: relative
+    z-index: 1
+    margin-right: 200px        

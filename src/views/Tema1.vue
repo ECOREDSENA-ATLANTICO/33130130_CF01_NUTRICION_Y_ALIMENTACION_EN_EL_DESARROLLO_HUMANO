@@ -8,27 +8,27 @@
       h1 Conceptos fundamentales de nutrición
 
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Muchas veces se habla de estar “bien o mal alimentado” ¿Qué significa eso? ¿A qué se refiere con tener una nutrición acorde con cada persona? Esta primera parte contiene los conceptos fundamentales asociados a la nutrición, los cuales permitirán introducir en el vocabulario personal definiciones acertadas y pertinentes que se utilizarán durante el programa.
 
-    .row.d-flex.mb-5
-      .col-lg-6.fnd-3.px-lg-5.py-lg-4.align-items-center
+    .row.d-flex(data-aos="fade-right")
+      .col-lg-6.fnd-3.px-5.py-4.align-items-center.mb-sm-5
         .row.mb-3.pe-lg-5.align-items-center
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-2.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img-2.png')
           .col-auto.px-0.align-items-center
             h3.mb-0.fnd-2 Alimentación
         p.mb-0 Es el proceso mediante el cual el ser vivo obtiene del entorno una serie de comestibles para ser ingeridos, estos alimentos tienen el propósito de satisfacer el apetito o simplemente deleitar el paladar. La selección de los alimentos es voluntaria y está influida por factores socioeconómicos (disponibilidad de productos), culturales y sicológicos (preferencias).
-      .col-lg-6.fnd-4.px-lg-5.py-lg-4
+      .col-lg-6.fnd-4.px-5.py-4.mb-sm-5
         .row.mb-3.pe-lg-5.align-items-center
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-3.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img-3.png')
           .col-auto.px-0
             h3.mb-0.fnd-2 Nutrientes:
         p Son componentes que se encuentran en los alimentos y que deben ser suministrados al cuerpo en cantidades adecuadas. Estos incluyen agua, proteínas y aminoácidos, que están compuestos de grasas y ácidos grasos, carbohidratos, minerales y vitaminas.
@@ -36,7 +36,7 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Nutrición:
     p.mb-5 Es la ciencia que estudia las relaciones entre los nutrientes y el organismo humano a nivel individual y colectivo a lo largo de la vida en diferentes situaciones fisiológicas y patológicas:
@@ -69,7 +69,7 @@
               h5.mb-3 Buena nutrición:
               p.mb-0 Es el esfuerzo de múltiples disciplinas y para lograrla se requiere lo siguiente: - La aplicación de la ciencia en la agricultura y la tecnología para producir cantidades suficientes de alimentos vegetales y animales de alto valor nutritivo.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
 
         .nutrition-box.mb-5 
@@ -82,57 +82,57 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Componentes de los alimentos
     p La alimentación entendida como el consumo de alimentos, y actividad necesaria para la subsistencia humana, la cual realizamos desde que se nace:
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10.f1
-            .background
-            .cont2
-              .row.justify-content-center.d-flex
-                .col-sm-6.col-xl-5.mb-4.mb-xl-0
-                  .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
-                    .indicador--hover(v-if="indicadorTarjetaFlip")
-                    .tarjeta-flip__contenedor
-                      .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-7.png')})`}")
-                      .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
-                        h5.text-center Función Principal  
-                        p.text-center Energética; permite mantener en correcto funcionamiento la actividad de los músculos, la presión arterial, la temperatura del cuerpo, las funciones de los órganos internos y especialmente hace que el cerebro y el sistema nervioso central operen adecuadamente.   
+        .background
+        .cont2
+          .row.justify-content-center.d-flex
+            .col-sm-6.col-xl-5.mb-4.mb-xl-0
+              .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
+                .indicador--hover(v-if="indicadorTarjetaFlip")
+                .tarjeta-flip__contenedor
+                  .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-7.png')})`}")
+                  .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
+                    h5.text-center Función Principal  
+                    p.text-center Energética; permite mantener en correcto funcionamiento la actividad de los músculos, la presión arterial, la temperatura del cuerpo, las funciones de los órganos internos y especialmente hace que el cerebro y el sistema nervioso central operen adecuadamente.   
+          
+            .col-sm-6.col-xl-5.mb-4.mb-xl-0
+              .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
+                .indicador--hover(v-if="indicadorTarjetaFlip")
+                .tarjeta-flip__contenedor
+                  .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-8.png')})`}")
+                  .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
+                    h5.text-center.mt-lg-5 Otras funciones o compuestos mixtos:
+                    .row.pe-lg-3.row.justify-content-center.align-items-center
+                      .col-auto.pe-2
+                        img(src="@/assets/curso/temas/tema1/check.svg")
+                      .col.px-0
+                        p.mb-0 <b>Proteoglicanos:</b> Función estructural.
+                    .row.pe-lg-3.row.justify-content-center.align-items-center
+                      .col-auto.pe-2
+                        img(src="@/assets/curso/temas/tema1/check.svg")
+                      .col.px-0
+                        p.mb-0 <b>Glucoproteínas:</b> Función reguladora.
+                    .row.pe-lg-3.row.justify-content-center.align-items-center
+                      .col-auto.pe-2
+                        img(src="@/assets/curso/temas/tema1/check.svg")
+                      .col.px-0
+                        p.mb-0 <b>Glucolípidos:</b> Función en el tejido nervioso, cerebrósidos y gangliósidos.
+  
               
-                .col-sm-6.col-xl-5.mb-4.mb-xl-0
-                  .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
-                    .indicador--hover(v-if="indicadorTarjetaFlip")
-                    .tarjeta-flip__contenedor
-                      .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-8.png')})`}")
-                      .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
-                        h5.text-center.mt-lg-5 Otras funciones o compuestos mixtos:
-                        .row.pe-lg-3.row.justify-content-center.align-items-center
-                          .col-auto.pe-2
-                            img(src="@/assets/curso/temas/tema1/check.svg")
-                          .col.px-0
-                            p.mb-0 <b>Proteoglicanos:</b> Función estructural.
-                        .row.pe-lg-3.row.justify-content-center.align-items-center
-                          .col-auto.pe-2
-                            img(src="@/assets/curso/temas/tema1/check.svg")
-                          .col.px-0
-                            p.mb-0 <b>Glucoproteínas:</b> Función reguladora.
-                        .row.pe-lg-3.row.justify-content-center.align-items-center
-                          .col-auto.pe-2
-                            img(src="@/assets/curso/temas/tema1/check.svg")
-                          .col.px-0
-                            p.mb-0 <b>Glucolípidos:</b> Función en el tejido nervioso, cerebrósidos y gangliósidos.
-      
-                  
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Monosacáridos
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-8.p-lg-5.p-md-3
+    .row.justify-content-center.align-items-center.mb-5.fnd-8.p-lg-5.p-md-3(data-aos="zoom-in")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -149,7 +149,7 @@
           
             .col-md-8
               figure
-                img.img-262(src='@/assets/curso/temas/tema1/img-10.png') 
+                img(src='@/assets/curso/temas/tema1/img-10.png') 
           .row.justify-content-center.align-items-center
             .col-md-4.mb-4.mb-md-0
               h5 Galactosa:	
@@ -163,11 +163,11 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Disacáridos
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-8-2.p-lg-5.p-md-3
+    .row.justify-content-center.align-items-center.mb-5.fnd-8-2.p-lg-5.p-md-3(data-aos="fade-right")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -196,13 +196,13 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Polisacáridos
 
     p.mb-5 Los polisacáridos están formados por moléculas de diez o más monosacáridos. Se descomponen en moléculas más pequeñas por hidrólisis en el organismo de los seres humanos y tienen la función de mantener reservas de energía.
 
-    .row.d-flex.mb-5
+    .row.d-flex.mb-5(data-aos="fade-left")
       .col-lg-6.fnd-3.px-lg-5.py-lg-4.align-items-center
         .row.mb-3.pe-lg-5.align-items-center
           .col-6
@@ -210,7 +210,7 @@
             p.mb-0 este compuesto es un polisacárido que se encuentra en legumbres, cereales como el arroz, en frutas, semillas, en tubérculos como las papas y en las plantas, y cuya función principal es almacenar energía para que los seres humanos puedan digerir con facilidad los almidones. Es necesario cocinarlos o tostarlos, ya que la digestibilidad del almidón depende de la complejidad de las cadenas de glucosa que los forma.
           .col-6          
             figure
-              img(src='@/assets/curso/temas/tema1/img-15.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img-15.png')
       .col-lg-6.fnd-4.px-lg-5.py-lg-4
         .row.pe-lg-5.align-items-center
           .col-6  
@@ -218,19 +218,19 @@
             p.mb-0 Al igual que el almidón, el glucógeno es un polisacárido que sirve como reserva energética y está conformado por cadenas de glucosa. Es insoluble en el agua y cuando se mezcla con ésta, forma dispersiones de sólidos coloidales. Posterior a la digestión de este carbohidrato se almacena en el hígado y se reparte en menor proporción en los músculos de las personas.
           .col-6          
             figure
-              img(src='@/assets/curso/temas/tema1/img-16.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img-16.png')
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Fibra
     p La fibra es de origen vegetal y se encuentra en las paredes celulares de los vegetales; los componentes más conocidos son: la celulosa, la hemicelulosa, las pectinas y la lignina.
-    .row.justify-content-center.align-items-center.mb-5.fl2
+    .row.justify-content-center.align-items-center.mb-5.fl2(data-aos="fade-left")
       .col-lg-5.col-md-8
         figure
-          img(src='@/assets/curso/temas/tema1/img-17.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img-17.png')
       .col-lg-7.p-md-3.p-xl-5
         h5.mb-0 Intestino delgado
         p.mb-0 Aumento del volumen y viscosidad del bolo (fibra soluble):
@@ -246,7 +246,7 @@
         p.mb-0 - Efectos derivados del metabolismo de los componentes de la fibra.
 
  
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .row.align-items-center
           .col-auto.mb-4
@@ -275,6 +275,7 @@
                 tr
                   td.t2.bb1 • Protección frente a tóxicos.
                   td.t4.bb1 • Protección de xenobióticos.
+        .row.justify-content-center.align-items-center                  
           .col-lg-8
             .row.align-items-center
               .col-auto.mb-3
@@ -295,7 +296,7 @@
                 .col-auto.pe-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 - Capacidad de retener agua.
+                  p.mb-0 Capacidad de retener agua.
 
               p.mb-4 <b>Efectos beneficiosos de la fibra alimentaria frente a la diabetes:</b> El requerimiento de insulina en un adulto diabético insulinodependiente tipo l se reduce en un 40% aproximadamente y en uno insulinodependiente tipo II puede llegar a reducirse de un 80% a 100%.
             .row.align-items-center
@@ -304,29 +305,29 @@
               p Disminuye la velocidad de absorción y la cantidad de glucosa absorbida. Los ácidos que se producen por la fermentación favorecen la eliminación de glucosa.
 
             
-          .col-lg-4
+          .col-lg-4.col-md-8
             figure
-              img(src='@/assets/curso/temas/tema1/img-18.png', alt='')
+              img(src='@/assets/curso/temas/tema1/img-18.png')
 
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Proteínas
       p.mt-4 Las proteínas son sustancias orgánicas que contienen en general una base de elementos químicos como el carbono, el hidrógeno, el oxígeno y el nitrógeno. Están formadas por cadenas lineales de aminoácidos los cuales están encadenados a enlaces peptídicos que se forman en el grupo carboxilo de un aminoácido; son compuestos que desempeñan muchas funciones en los seres humanos y hacen parte de los tejidos, tendones, músculos, piel y uñas, además desempeñan funciones metabólicas, reguladoras y transportan el oxígeno y grasas en la sangre. Hacen parte del código genético (ADN) lo que define la identidad de cada persona.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img-19.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-19.svg')
 
     p.mb-4 A continuación, se describen algunas de estas funciones:
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-8
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-3.col-md-8.mb-5
         figure
-          img(src='@/assets/curso/temas/tema1/img-20.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img-20.png')
       .col-lg-9
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-9")
             div(titulo="Función reguladora:")
@@ -340,7 +341,7 @@
 
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .nutrition-box.mb-5 
           .cont-t
@@ -530,11 +531,11 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Lípidos
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9.order-lg-1.order-2
         p Los lípidos que se ingieren en la dieta están constituidos por fosfolípidos y colesterol. La función más relevante de estos compuestos es dar energía al metabolismo y dar elementos estructurales a la membrana celular. Los lípidos sirven también para transportar las vitaminas liposolubles y son precursores de hormonas y moléculas de señalización celular. Los lípidos en forma de triglicéridos llevan energía a los órganos y músculos internos, pero también pueden ser almacenados como grasa.
         h5 La importancia de los lípidos en la alimentación está relacionada con:
@@ -561,9 +562,9 @@
 
       .col-lg-3.col-md-8.order-lg-2.order-1        
         figure
-          img(src='@/assets/curso/temas/tema1/img-22.png', alt='')
+          img(src='@/assets/curso/temas/tema1/img-22.png')
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-8.p-lg-5.p-md-3
+    .row.justify-content-center.align-items-center.mb-5.fnd-8.p-lg-5.p-md-3(data-aos="zoom-in")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
@@ -572,7 +573,7 @@
               p Estos compuestos son los principales de las grasas naturales; son de baja densidad lo cual les da la característica de almacenar energía en el tejido adiposo. En este grupo se encuentran las grasas saturadas, las cuales cuentan con ácidos grasos sin doble enlace, las monoinsaturadas y las poliinsaturadas. Dichas grasas tienen la propiedad de disminuir los niveles del colesterol LDL; este tipo de colesterol es conocido como el colesterol malo, puesto que es el que perjudica la adecuada circulación de la sangre ya que químicamente contiene lipoproteínas de baja densidad que son dañinas.
             .col-md-4
               figure
-                img.img-262(src='@/assets/curso/temas/tema1/img-23.png')
+                img(src='@/assets/curso/temas/tema1/img-23.png')
 
           .row.justify-content-center.align-items-center
             .col-md-8.mb-4.mb-md-0
@@ -580,7 +581,7 @@
               p Estas grasas se encuentran en los aceites de oliva y girasol, en los frutos secos, en el maíz, en el salmón, el róbalo, la trucha, el pan integral, entre otros. Contienen dentro de su composición el colesterol HDL, conocido también como el colesterol bueno, este ayuda a eliminar los restos de colesterol LDL en la sangre y evita que la grasa se acumule.
             .col-md-4
               figure
-                img.img-262(src='@/assets/curso/temas/tema1/img-24.png')
+                img(src='@/assets/curso/temas/tema1/img-24.png')
 
           .row.justify-content-center.align-items-center
             .col-md-8.mb-4.mb-md-0
@@ -588,7 +589,7 @@
               p También son consideradas grasas saludables para el cuerpo humano, están compuestas por ácidos grasos poliinsaturados en los que los átomos de carbono están unidos por un enlace doble. Entre las grasas poliinsaturadas se encuentra la familia de ácidos omega que son reconocidas por sus efectos positivos en la salud de las personas.
             .col-md-4
               figure
-                img.img-262(src='@/assets/curso/temas/tema1/img-25.png')
+                img(src='@/assets/curso/temas/tema1/img-25.png')
 
           .row.justify-content-center.align-items-center
             .col-md-8.mb-4.mb-md-0
@@ -597,7 +598,7 @@
               p Estos ayudan a la formación de las membranas celulares, de las hormonas, del correcto funcionamiento del sistema inmunológico y del funcionamiento de las neuronas.
             .col-md-4
               figure
-                img.img-262(src='@/assets/curso/temas/tema1/img-26.png')
+                img(src='@/assets/curso/temas/tema1/img-26.png')
 
 </template>
 

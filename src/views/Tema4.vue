@@ -6,8 +6,8 @@
       .titulo-principal__numero
         span 4
       h1 Composición del cuerpo, metabolismo, digestión y absorción
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-8
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-3.col-md-8.mb-md-5
         figure
           img(src='@/assets/curso/temas/tema3/img-10.png')      
       .col-lg-9     
@@ -17,11 +17,11 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Composición del cuerpo
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-9     
         p El cuerpo está compuesto de agua distribuida en todos los tejidos que corresponde aproximadamente a las dos terceras partes del peso corporal de un individuo. Las tres cuartas partes están en el compartimiento intracelular, es decir, en el fluido que está dentro de la célula, mientras la cuarta parte restante se encuentra en el compartimiento extracelular que influye en la circulación sanguínea, la linfa y los fluidos intersticiales que cubren a todas las células. En los tejidos varía el contenido de agua dependiendo de su naturaleza, por ejemplo, los huesos, dientes y el tejido adiposo contienen poca cantidad. 
         p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nacido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
@@ -31,19 +31,19 @@
           img(src='@/assets/curso/temas/tema3/img-11.png')      
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         h5 Los elementos químicos predominantes en el cuerpo son:
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-12.svg')           
         p Casi la mayoría de los constituyentes del cuerpo son compuestos orgánicos que se encuentran en cantidades muy pequeñas los cuales no tienen efectos sobre el peso total del cuerpo. Entre estos se encuentran las vitaminas, las hormonas y las enzimas.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Las células como unidades de funcionamiento      
         p El cuerpo humano puede estudiarse a varios niveles de organización: El organismo como un todo, los órganos y los tejidos, las células que forman los órganos, los tejidos y los componentes estructurales dentro de las células.
@@ -52,14 +52,14 @@
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 La naturaleza de las enzimas      
         p Todos los seres vivos producen miles de enzimas sin las cuales la mayoría de las reacciones químicas que se realizan internamente no podrían llevarse a cabo. Las enzimas son catalizadores orgánicos de naturaleza proteica que aumentan considerablemente la velocidad de las reacciones. Cuando una proteína se desnaturaliza por medio del calor, se pierde en muchos casos la actividad de esta.
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 El Metabolismo      
         p El metabolismo es un sin número de reacciones bioquímicas y fisicoquímicas que ocurren en las células y el organismo; en los seres humanos es realizado por enzimas que son generadas por el hígado.         
@@ -108,12 +108,12 @@
               h5.mb-3 Excreción de desechos:
               p.mb-0 Alimentos no digeridos y ciertos productos del cuerpo se eliminan de diversas formas como por ejemplo : los  pulmones se puede desechar dióxido de carbono y sales minerales, mientras que por medio d ellos riñones y la piel se eliminan otras sustancias producto del metabolismo.
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-9 
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Digestión
         p La digestión es un proceso que comprende procesos mecánicos y químicos por medio de los cuales los materiales alimenticios complejos son hidrolizados a formas adecuadas para ser absorbidos por la pared de la mucosa y así ser utilizados por el organismo. Sólo unas cuantas sustancias que hacen parte de los alimentos son utilizadas por el cuerpo sin sufrir ningún cambio, estas son: agua, azucares simples, algunas sales minerales y vitaminas.
@@ -126,7 +126,7 @@
       .col-lg-3.col-md-8
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-20.png')  
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12                  
         p <b>Las hormonas son mensajeros químicos que se producen en un punto determinado como el resultando de un estímulo de alimentos específicos:   </b>
         .titulo-sexto.color-acento-contenido
@@ -177,14 +177,14 @@
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
-          img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Digestión mecánica
 
     p La actividad muscular rítmica hace que los alimentos se reduzcan en partículas diminutas y se mezclen con los jugos gástricos, lo que facilita el movimiento a través del tracto para que haya una superficie mayor de exposición a las enzimas hidrolizantes y al contacto con las paredes absorbentes de la mucosa.
 
     h6.mb-5 Proceso de digestión mecánica. Motilidad a través del tracto:
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
@@ -223,7 +223,7 @@
             
     p.mb-4 La velocidad con la que se mueven los alimentos a través del tracto digestivo depende de la consistencia, composición y cantidad del alimento digerido. Por ejemplo, los líquidos empiezan a dejar el estómago 15 minutos después de ser ingeridos, esto explica por qué las dietas líquidas no producen gran saciedad; cuando los carbohidratos se ingieren solos, dejan el estómago más rápido que las proteínas; mientras que las grasas verifican la secreción de jugos gástricos y retardan la actividad peristáltica, de manera que su presencia en las dietas retrasa el vaciado del estómago. Normalmente el estómago se desocupa en un lapso de tiempo de 4 a 6 horas.              
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-4.col-md-8
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-22.png') 
@@ -231,7 +231,7 @@
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Digestión química
         p En diversas regiones del tracto digestivo existe una mezcla compleja que debe hidrolizarse. Dependiendo del lugar, ésta incluye materiales alimenticios en varias etapas de hidrolisis, secreciones de fluidos digestivos que contienen enzimas y hormonas, materiales celulares procedentes de la exfoliación de la mucosa, bilis, bacterias y diversos productos del metabolismo dentro del cuerpo que han penetrado en el tracto digestivo.
@@ -241,7 +241,7 @@
     .titulo-sexto.color-acento-contenido
       h5 Tabla 9.
       span Jugos digestivos y sus acciones
-    .tabla-b.color-acento-contenido.tbl5.mb-5
+    .tabla-b.color-acento-contenido.tbl5.mb-5(data-aos="fade-right")
       table
         caption Fuente: Corinne (1985)
         thead
@@ -303,12 +303,12 @@
 
 
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-9 
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
-              img(src='@/assets/curso/temas/tema1/img-4.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Absorción
         p Es el proceso por el cual los nutrientes se mueven desde el lumen intestinal hasta la sangre, dando como resultado la absorción de nutrientes en el organismo. Es un proceso activo en el cual las sustancias son transportadas dentro del cuerpo; también es un proceso selectivo en el cual algunos materiales como la glucosa es transportada casi en su totalidad a través de las células. Otro ejemplo, es el del calcio y el hierro que se absorben solamente de acuerdo con las necesidades del organismo.
@@ -327,7 +327,7 @@
 
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center(data-aos="fade-right")
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
