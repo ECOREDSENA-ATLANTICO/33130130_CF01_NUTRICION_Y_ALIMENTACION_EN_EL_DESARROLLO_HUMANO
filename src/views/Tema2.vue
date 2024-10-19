@@ -12,7 +12,7 @@
     p <b>Clasificación de las vitaminas:</b> Situaciones de riesgo de deficiencia vitamínica.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
-      .col-xl-4 
+      .col-xl-4.col-lg-6.col-md-8
         .crd_02.mb-5
             .crd_02__icon.dan
               img(src="@/assets/curso/temas/tema2/img-1.svg", alt="alt")          
@@ -24,7 +24,7 @@
               p.mb-1 - Vegetarianos estrictos.
 
 
-      .col-xl-4 
+      .col-xl-4.col-lg-6.col-md-8
         .crd_02.mb-5
             .crd_02__icon.dan
               img(src="@/assets/curso/temas/tema2/img-1.svg", alt="alt")          
@@ -34,7 +34,7 @@
               p.mb-1 - Periodos posoperatorios.
               p.mb-1 - Enfermedades crónicas o infecciosas.
 
-      .col-xl-4 
+      .col-xl-4.col-lg-6.col-md-8 
         .crd_02.mb-5
             .crd_02__icon.dan
               img(src="@/assets/curso/temas/tema2/img-1.svg", alt="alt")          
@@ -71,12 +71,12 @@
             p En algunos de estos efectos no se puede diferenciar si es debido a los carotenoides por sí mismos como antioxidantes o si se debe a su carácter como provitamina A.
 
 
-      .col-lg-3.col-md-8.order-1.order-lg-2.mb-md-4 
+      .col-lg-3.col-md-6.order-1.order-lg-2.mb-3 
         figure
           img(src='@/assets/curso/temas/tema2/img-3.png') 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-md-8.mb-md-4
+      .col-lg-3.col-md-6.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema2/img-4.png') 
 
@@ -123,7 +123,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4.fnd-11
-          p Las vitaminas del grupo B ayudan al organismo humano a que efectúe los procesos de extracción de energía de los alimentos que se ingieren; además ayudan en la formación de glóbulos rojos. Estas vitaminas pueden ser obtenidas de alimentos como huevos, carne de res, pescados, pollo, vegetales y lácteos.
+          p.mb-0 Las vitaminas del grupo B ayudan al organismo humano a que efectúe los procesos de extracción de energía de los alimentos que se ingieren; además ayudan en la formación de glóbulos rojos. Estas vitaminas pueden ser obtenidas de alimentos como huevos, carne de res, pescados, pollo, vegetales y lácteos.
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -222,6 +222,7 @@
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-6.png')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
+                    h5.text-center.mt-lg-5 Deficiencia de la vitamina D
                     p - El calcio no puede absorberse.
                     p - Raquitismo en niños: Los huesos son blandos y flexibles, el estómago protuberante resultado de la laxación de músculos abdominales.
                     p Osteomalacia: Es la malformación equiparable al raquitismo, pero en adultos, la prevención de osteomalacia con vitamina D, calcio y fósforo. 
@@ -239,7 +240,7 @@
                     p - Leche humana y de vaca.
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4.col-md-8
+      .col-lg-4.col-md-6
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-8.png')           
           
@@ -320,7 +321,7 @@
                   p.mb-0 <b>Azufre:</b> Se encarga de regular la estructura de los tejidos conectivos que se encuentran en la piel y además de esto hace parte de las enzimas.
 
 
-            .col-lg-4.col-md-8
+            .col-lg-4.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img-9.png') 
           .row.justify-content-center.align-items-center

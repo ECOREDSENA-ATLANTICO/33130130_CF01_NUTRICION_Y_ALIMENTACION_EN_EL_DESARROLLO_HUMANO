@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'El desarrollo humano, desde la concepción, está ligado a una nutrición adecuada que proporciona nutrientes esenciales para la salud. Para entender la nutrición, es importante conocer los compuestos de los alimentos, como carbohidratos, proteínas, lípidos, vitaminas y minerales, y sus funciones. Esta unidad estudiará estos componentes, el valor energético de los alimentos, el gasto energético, y procesos como metabolismo, digestión y absorción, estableciendo una base sólida para las actividades propuestas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal-m.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -309,13 +309,15 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -323,9 +325,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Diana Cristina Muñoz Urrea',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroindustrial Regional Quindío',
+        },
+        {
+          nombre: 'Yuri Alexandra Baez',
+          cargo: 'Asesora pedagógica',
+          centro: 'Centro Agroindustrial Regional Quindío',
+        },
+        {
+          nombre: 'Fabian Cuartas Donado',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -333,24 +346,22 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Hernando Junior Strusberg Perez',
+          cargo: 'Diseño web',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jorge Leonardo Camacho Pardo',
+          cargo: 'Desarrollor <em> full stack</em>',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Alexander Rafael Acosta Bedoya',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -358,24 +369,29 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
+          nombre: 'Luz Karime Amaya',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales ',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },

@@ -42,7 +42,7 @@
     p.mb-5 Es la ciencia que estudia las relaciones entre los nutrientes y el organismo humano a nivel individual y colectivo a lo largo de la vida en diferentes situaciones fisiológicas y patológicas:
 
     .row.justify-content-center.align-items-center.mb-5.fnd-6.p-4(data-aos="zoom-in")
-        .col-lg-3.col-md-8.mb-4
+        .col-lg-3.col-md-6.mb-4
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img-5.png").img400.m-auto
         .col-lg-9
@@ -202,21 +202,21 @@
 
     p.mb-5 Los polisacáridos están formados por moléculas de diez o más monosacáridos. Se descomponen en moléculas más pequeñas por hidrólisis en el organismo de los seres humanos y tienen la función de mantener reservas de energía.
 
-    .row.d-flex.mb-5(data-aos="fade-left")
-      .col-lg-6.fnd-3.px-lg-5.py-lg-4.align-items-center
-        .row.mb-3.pe-lg-5.align-items-center
-          .col-6
+    .row.d-flex(data-aos="fade-left")
+      .col-lg-6.fnd-3.px-lg-5.py-lg-4.mb-md-5
+        .row.align-items-center.mb-0
+          .col-lg-6.col-md-8
             h5 Almidón
             p.mb-0 este compuesto es un polisacárido que se encuentra en legumbres, cereales como el arroz, en frutas, semillas, en tubérculos como las papas y en las plantas, y cuya función principal es almacenar energía para que los seres humanos puedan digerir con facilidad los almidones. Es necesario cocinarlos o tostarlos, ya que la digestibilidad del almidón depende de la complejidad de las cadenas de glucosa que los forma.
-          .col-6          
+          .col-lg-6.col-md-4.p-0          
             figure
               img(src='@/assets/curso/temas/tema1/img-15.png')
-      .col-lg-6.fnd-4.px-lg-5.py-lg-4
-        .row.pe-lg-5.align-items-center
-          .col-6  
+      .col-lg-6.fnd-4.px-lg-5.py-lg-4.mb-md-5
+        .row.align-items-center.mb-0
+          .col-lg-6.col-md-8 
             h5 Glucógeno
             p.mb-0 Al igual que el almidón, el glucógeno es un polisacárido que sirve como reserva energética y está conformado por cadenas de glucosa. Es insoluble en el agua y cuando se mezcla con ésta, forma dispersiones de sólidos coloidales. Posterior a la digestión de este carbohidrato se almacena en el hígado y se reparte en menor proporción en los músculos de las personas.
-          .col-6          
+          .col-lg-6.col-md-4.p-0         
             figure
               img(src='@/assets/curso/temas/tema1/img-16.png')
 
@@ -228,10 +228,10 @@
         h3.mb-0 Fibra
     p La fibra es de origen vegetal y se encuentra en las paredes celulares de los vegetales; los componentes más conocidos son: la celulosa, la hemicelulosa, las pectinas y la lignina.
     .row.justify-content-center.align-items-center.mb-5.fl2(data-aos="fade-left")
-      .col-lg-5.col-md-8
+      .col-lg-5.col-md-8.p-0
         figure
           img(src='@/assets/curso/temas/tema1/img-17.png')
-      .col-lg-7.p-md-3.p-xl-5
+      .col-lg-7.px-md-3.px-xl-5
         h5.mb-0 Intestino delgado
         p.mb-0 Aumento del volumen y viscosidad del bolo (fibra soluble):
         p.mb-0 - Retraso de la digestión y enlentecimiento de la absorción intestinal.
@@ -243,7 +243,7 @@
         p.mb-0 - Incremento de la motilidad:
         p.mb-0 - Por acción mecánica y química.
         p.mb-0 - Dilución de otros componentes de los alimentos.
-        p.mb-0 - Efectos derivados del metabolismo de los componentes de la fibra.
+        p - Efectos derivados del metabolismo de los componentes de la fibra.
 
  
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -305,7 +305,7 @@
               p Disminuye la velocidad de absorción y la cantidad de glucosa absorbida. Los ácidos que se producen por la fermentación favorecen la eliminación de glucosa.
 
             
-          .col-lg-4.col-md-8
+          .col-lg-4.col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-18.png')
 
@@ -325,7 +325,7 @@
     p.mb-4 A continuación, se describen algunas de estas funciones:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-md-8.mb-5
+      .col-lg-3.col-md-6.mb-5
         figure
           img(src='@/assets/curso/temas/tema1/img-20.png')
       .col-lg-9
@@ -560,7 +560,7 @@
             h3.mb-0.fnd-2-1.fnd-2 Clasificación
         p Los lípidos están constituidos por colesterol libre, esterificado, triglicéridos, ácidos grasos libres y fosfolípidos. Estos compuestos están presentes en las lipoproteínas plásticas y son los encargados de transportar los quilomicrones, las lipoproteínas de densidad baja (LDL) y las proteínas de alta densidad (HDL).
 
-      .col-lg-3.col-md-8.order-lg-2.order-1        
+      .col-lg-3.col-md-6.order-lg-2.order-1.mb-3        
         figure
           img(src='@/assets/curso/temas/tema1/img-22.png')
 

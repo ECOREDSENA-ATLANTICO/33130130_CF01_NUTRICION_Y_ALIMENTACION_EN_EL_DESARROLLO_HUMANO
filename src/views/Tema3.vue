@@ -8,7 +8,7 @@
       h1 El valor energético de los alimentos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-3.col-md-8.mb-md-5
+      .col-lg-3.col-md-6.mb-md-5
         figure
           img(src='@/assets/curso/temas/tema3/img-1.png')           
           
@@ -27,10 +27,8 @@
     .row(data-aos="zoom-in")
       .col-auto.mb-3
         h3.mb-0.fnd-2-1.fnd-2 Tablas de composición de los alimentos.
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-lg-9
-        
-
         p En las tablas de composición de un alimento está descrito cuántas kilocalorías tiene un alimento y cuánto tiene de proteínas, lípidos y glúcidos. Entonces para saber el total de calorías de un alimento se debe saber cuántos gramos de cada nutriente contiene para después multiplicarlo por el valor calórico, por ejemplo, una porción de helado tiene:
         .row.mb-4.pe-lg-3.align-items-center
           .col-auto.pe-2
@@ -54,9 +52,9 @@
             p.mb-0 <b>Calorías totales:</b> 200 kcal.                  
 
         p.mb-4 Necesidades energéticas del ser humano y el valor energético de los Alimentos. El consumo diario de energía depende de lo que requiera el cuerpo. Cuando sehabla de consumo diario se hace referencia a la cantidad de energía que gasta elcuerpo para suplir todas sus necesidades; este factor se llama Gasto calórico total.
-        p.mb-0 Los requerimientos diarios de energía se calculan como la suma de los siguientes factores:
+        p.mb-3 Los requerimientos diarios de energía se calculan como la suma de los siguientes factores:
                   
-      .col-lg-3.col-md-8.mb-md-5
+      .col-lg-3.col-md-6.mb-md-5
         figure
           img(src='@/assets/curso/temas/tema3/img-3.png')
           
@@ -65,18 +63,27 @@
       span Requerimientos diarios de energía
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-lg-12
-          figure
-            img.mb-2(src='@/assets/curso/temas/tema3/img-4.svg')           
-            figcaption Nota. FAO (2017)
-  
+      .col-auto
+        .bodytabla.tabla-a
+          table
+            caption Nota. FAO (2017)
+            tr
+              td Metabolismo basal.
+              td 60%
+              td Efecto térmico de los alimentos (digestión de los alimentos y absorción de nutrientes).
+              td 30%
+              td Actividad física.
+              td 10%
+              td Gasto total de energía durante el día.
+              td 100%
+
     .row(data-aos="fade-right")
       .col-auto.mb-3
         h3.mb-0.fnd-2-1.fnd-2 Tasa de Metabolismo basal (TMB):     
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-md-8.mb-md-5
+      .col-lg-3.col-md-6.mb-3
         figure
           img(src='@/assets/curso/temas/tema3/img-5.png')
       .col-lg-9
@@ -179,7 +186,7 @@
           .col.px-0
             p.mb-0 <b>Excepcional:</b>Atletas de alto rendimiento.                           
                   
-      .col-lg-3.col-md-8.mb-md-5
+      .col-lg-3.col-md-6.mb-3
         figure
           img(src='@/assets/curso/temas/tema3/img-7.png')   
 
@@ -191,13 +198,13 @@
         h3.mb-0 Gasto energético Total
        
     .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-3.col-md-8.mb-md-5
+      .col-lg-3.col-md-6.mb-5
         figure
           img(src='@/assets/curso/temas/tema3/img-8.png') 
 
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4.fnd-11
-          p Es importante conocer el gasto energético diario para así saber lo que en realidad el cuerpo necesita, ya que a veces la dieta que se consume tiene un desequilibrio en nutrientes. Por ejemplo, cuando se consumen más calorías de las que se necesitan, el cuerpo las almacena en forma de grasa ocasionando un aumento de peso.
+          p.mb-0 Es importante conocer el gasto energético diario para así saber lo que en realidad el cuerpo necesita, ya que a veces la dieta que se consume tiene un desequilibrio en nutrientes. Por ejemplo, cuando se consumen más calorías de las que se necesitan, el cuerpo las almacena en forma de grasa ocasionando un aumento de peso.
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -218,16 +225,16 @@
             p Calcular el gasto energético total de una mujer de 30 años que mide 1.59 m, pesa 55 kg y cuyo índice de masa corporal (IMC) es de 20, lo cual se considera adecuado. Ella realiza actividad física leve, pues es profesora en una universidad y en las tardes camina durante 20 minutos para llegar a su casa.
           img.user(src="@/assets/curso/temas/tema3/img-9.png")
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10
         .row
           .col-auto.mb-3
-            h3.mb-0.fnd-2-1 Gasto energético en reposo (GER):
+            h3.mb-0.fnd-2-1.fnd-2 Gasto energético en reposo (GER):
         p Para hallar el gasto energético en reposo de esta mujer de 30 años se debe tener en cuenta la Tabla 1 del modelo de la FAO, OMS y UNU donde:La ecuación para estimar el gasto energético en reposo para una mujer de 30 años es la siguiente:
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         .row.justify-content-center.align-items-center.fnd-12
-          .col-lg-10.p-5
+          .col-lg-10.px-5.py-3
             .row.mb-4
               .col-auto.mb-3
                 h3.mb-0.fnd-2-2.fnd-2 Ecuación gasto energético en reposo

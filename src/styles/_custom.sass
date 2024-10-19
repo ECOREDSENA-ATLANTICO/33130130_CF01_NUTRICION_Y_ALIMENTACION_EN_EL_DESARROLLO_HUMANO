@@ -28,18 +28,19 @@
   100%
     transform: translatex(0px)
 
-.banner-principal__img 
-  width: 400px !important
+@media (min-width: 576px) 
+  .banner-principal__img 
+    padding-top: 1rem !important
    
 .banner-principal .tarjeta   
-  background-image: url(../assets/curso/portada/fondo-banner-principal-s.png) !important
+  background-image: url(../assets/curso/portada/fondo-banner-principal-s.svg) !important
   background-repeat: no-repeat      
   background-position: bottom center
   background-size: cover
   @media (min-width: 768px) and (max-width:992px)
-    background-image: url(../assets/curso/portada/fondo-banner-principal-m.png) !important    
+    background-image: url(../assets/curso/portada/fondo-banner-principal-m.svg) !important    
   @media(min-width: 992px)
-    background-image: url(../assets/curso/portada/fondo-banner-principal.png) !important    
+    background-image: url(../assets/curso/portada/fondo-banner-principal.svg) !important    
 
 .banner-interno__fondo
   background-image: url(../assets/curso/portada/fondo-banner.svg)  !important  
@@ -68,15 +69,40 @@
 .fnd-3
   background-color: #DED6FD !important   
   border-radius: 1rem 
+  figure
+    img
+      width: 70%
+      margin: auto
+  padding: 1rem
+
   @media (min-width: 769px) 
     border-radius: 1rem 0 0 1rem 
-
+    figure
+      img
+        width: 100%
+  @media (max-width: 769px) 
+    margin-bottom: 2rem
+    figure
+      img
+        margin-top: 1rem   
 .fnd-4
   background-color: #EEEAFE !important   
   border-radius: 1rem 
+  figure
+    img
+      width: 70%
+      margin: auto
+  padding: 1rem
   @media (min-width: 769px) 
     border-radius: 0 1rem 1rem 0
-
+    figure
+      img
+        width: 100%
+  @media (max-width: 769px) 
+    margin-bottom: 2rem   
+    figure
+      img
+        margin-top: 1rem     
 .fnd-5     
   background-color: #E6F8E6
   border-radius: 10px
@@ -144,6 +170,9 @@
   background-color: #E6F8E6
   p
     padding-left: 1.5rem  
+  @media (max-width: 1200px)    
+    h5 
+      margin-top: 1rem        
 .slyder-a__btn--sigt, .slyder-a__btn--atrs 
     background-color: #87DE87  
 .slyder-a__bullets__item 
@@ -194,7 +223,7 @@
     transform: translateY(4%)
     top: 3px
   .cont-t    
-    margin-right: 200px !important    
+    margin-right: 210px !important    
 @media (min-width: 1200px)   
   .car1
     width: 291px !important  
@@ -275,7 +304,7 @@
   border-bottom: 2px solid #FCC59A   
 .tbl3
   td
-    padding: 10px 20px
+    padding: 10px 10px
   thead
     td
       border: 2px solid #567D56 !important
@@ -283,7 +312,7 @@
       font-weight: 700
   tbody
     td
-      padding: 9px 40px
+      padding: 9px 10px
       border-right: 2px solid #567D56
       border-left: 2px solid #567D56
       text-align: center 
@@ -369,6 +398,10 @@
     .crd_hover_txt--body
       p
         font-size: 0.85em	  
+  @media (max-width: 576px) 
+    .pp1
+      font-size: 0.95em !important  
+           
 $crd-icon-size: 85px
 $crd-padding: 1.5rem
 $crd-width: calc(100% - ((#{$crd-icon-size} / 2))) 
@@ -481,3 +514,130 @@ $crd-w: calc(100% - ((#{$crd-i} / 2)))
     position: relative
     z-index: 1
     margin-right: 200px        
+
+
+
+
+
+
+
+
+
+.bodytabla 
+  table 
+    overflow-x: auto
+    background-color: #f4f4ff
+    border: 1px solid #ccc
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+    min-width: 996px 
+    width: 100%
+    td 
+      &:nth-child(1) 
+        background-color: #F6F4FE
+        border: 2px solid #AC9AFC
+        width: 12%
+      &:nth-child(2) 
+        background-color: #F6F4FE
+        color: #9370DB
+        font-size: 35px
+        font-weight: bold
+        border: 2px solid #AC9AFC
+        width: 8%
+        padding-left: 0.5rem
+      &:nth-child(3) 
+        background-color: #FEF3EA
+        width: 24%
+        border: 2px solid #AC9AFC
+
+      &:nth-child(4) 
+        background-color: #FEF3EA
+        color: #9370DB
+        font-size: 35px
+        font-weight: bold
+        width: 8%
+        border: 2px solid #AC9AFC
+        padding-left: 0.5rem
+
+      &:nth-child(5) 
+        background-color: #EEEAFE
+        border: 2px solid #AC9AFC
+        width: 9%
+      &:nth-child(6) 
+        background-color: #EEEAFE
+        color: #9370DB
+        font-size: 35px
+        font-weight: bold
+        width: 9%
+        border: 2px solid #AC9AFC
+        padding-left: 0.5rem
+
+      &:nth-child(7) 
+        background-color: #e6ffe6
+        border: 2px solid #87DE87
+        width: 14%
+      &:nth-child(8) 
+        background-color: #e6ffe6
+        color: #87DE87
+        font-size: 35px
+        font-weight: bold
+        border: 2px solid #87DE87
+        padding-left: 1rem
+        width: 11%
+
+
+
+  @media (min-width: 1200px)       
+    td 
+      &:nth-child(1) 
+        background-color: #F6F4FE
+        border: 2px solid #AC9AFC
+        width: 11%
+      &:nth-child(2) 
+        background-color: #F6F4FE
+        color: #9370DB
+        font-size: 35px
+        font-weight: bold
+        border: 2px solid #AC9AFC
+        width: 8%
+        padding-left: 1rem
+      &:nth-child(3) 
+        background-color: #FEF3EA
+        width: 28%
+        border: 2px solid #AC9AFC
+
+      &:nth-child(4) 
+        background-color: #FEF3EA
+        color: #9370DB
+        font-size: 35px
+        font-weight: bold
+        width: 8%
+        border: 2px solid #AC9AFC
+        padding-left: 1rem
+
+      &:nth-child(5) 
+        background-color: #EEEAFE
+        border: 2px solid #AC9AFC
+        width: 13%
+      &:nth-child(6) 
+        background-color: #EEEAFE
+        color: #9370DB
+        font-size: 35px
+        font-weight: bold
+        width: 8%
+        border: 2px solid #AC9AFC
+        padding-left: 1rem
+
+      &:nth-child(7) 
+        background-color: #e6ffe6
+        border: 2px solid #87DE87
+        width: 14%
+      &:nth-child(8) 
+        background-color: #e6ffe6
+        color: #87DE87
+        font-size: 35px
+        font-weight: bold
+        border: 2px solid #87DE87
+        padding-left: 1rem
+
+.tabla-b table
+    min-width: 568px

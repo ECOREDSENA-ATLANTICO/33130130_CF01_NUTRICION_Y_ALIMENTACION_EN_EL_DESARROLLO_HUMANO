@@ -7,7 +7,7 @@
         span 4
       h1 Composición del cuerpo, metabolismo, digestión y absorción
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-md-8.mb-md-5
+      .col-lg-3.col-md-6.mb-3
         figure
           img(src='@/assets/curso/temas/tema3/img-10.png')      
       .col-lg-9     
@@ -26,12 +26,12 @@
         p El cuerpo está compuesto de agua distribuida en todos los tejidos que corresponde aproximadamente a las dos terceras partes del peso corporal de un individuo. Las tres cuartas partes están en el compartimiento intracelular, es decir, en el fluido que está dentro de la célula, mientras la cuarta parte restante se encuentra en el compartimiento extracelular que influye en la circulación sanguínea, la linfa y los fluidos intersticiales que cubren a todas las células. En los tejidos varía el contenido de agua dependiendo de su naturaleza, por ejemplo, los huesos, dientes y el tejido adiposo contienen poca cantidad. 
         p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nacido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
    
-      .col-lg-3.col-md-8
+      .col-lg-3.col-md-6
         figure
           img(src='@/assets/curso/temas/tema3/img-11.png')      
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-8
         h5 Los elementos químicos predominantes en el cuerpo son:
         figure.mb-4
@@ -41,10 +41,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
-          .col-auto.pe-2
+          .col-auto
             figure
               img(src='@/assets/curso/temas/tema1/img-4.svg')
-          .col-auto.px-0
+          .col.px-0
             h3.mb-0 Las células como unidades de funcionamiento      
         p El cuerpo humano puede estudiarse a varios niveles de organización: El organismo como un todo, los órganos y los tejidos, las células que forman los órganos, los tejidos y los componentes estructurales dentro de las células.
         p Los procesos nutricionales del organismo completo son la suma de las actividades físicas y químicas que tienen lugar dentro de las células y la relación que existe entre éstas y el medio que las rodea. El organismo vivo más simple está formado por una célula como es el caso de las bacterias, en cambio, en el organismo más complejo que son los seres humanos las células llevan a cabo sus múltiples actividades, pero no pueden existir independientemente, pues funcionan a través de la coordinación sumamente compleja con otras células.
@@ -64,14 +64,14 @@
             h3.mb-0 El Metabolismo      
         p El metabolismo es un sin número de reacciones bioquímicas y fisicoquímicas que ocurren en las células y el organismo; en los seres humanos es realizado por enzimas que son generadas por el hígado.         
 
-      .col-lg-4.col-md-8
+      .col-lg-4.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-13.png')  
 
       h5 El metabolismo implica la coordinación de varios procesos:          
 
-      .row.justify-content-center.align-items-center.mb-5.fnd-6.p-4(data-aos="zoom-in")
-        .col-lg-3.col-md-8.mb-4
+      .row.justify-content-center.align-items-center.mb-3.fnd-6.p-4(data-aos="zoom-in")
+        .col-lg-3.col-md-6.mb-4
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema3/img-14.png").img400.m-auto
         .col-lg-9
@@ -123,7 +123,7 @@
             h3.mb-0.fnd-2-1.fnd-2 Controladores del tracto digestivo.
         p La secreción y los jugos gástricos, la actividad motora del tracto y la velocidad de la digestión es regulada por factores nerviosos, químicos y físicos. Un ejemplo de esto es el pensamiento, la vista y el aroma de los alimentos; dichos factores hacen que se incremente el flujo de saliva y los jugos gástricos, pero cuando una persona tiene preocupación o miedo disminuye los jugos gástricos ocasionando un atraso en la digestión. El sistema nervioso autonómico ejerce continuo control sobre la actividad secretoria y motora en todo el tracto digestivo, la presión de los alimentos contra las membranas mucosas y las características específicas de estos sirven como estímulo a los nervios.
      
-      .col-lg-3.col-md-8
+      .col-lg-3.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-20.png')  
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -224,7 +224,7 @@
     p.mb-4 La velocidad con la que se mueven los alimentos a través del tracto digestivo depende de la consistencia, composición y cantidad del alimento digerido. Por ejemplo, los líquidos empiezan a dejar el estómago 15 minutos después de ser ingeridos, esto explica por qué las dietas líquidas no producen gran saciedad; cuando los carbohidratos se ingieren solos, dejan el estómago más rápido que las proteínas; mientras que las grasas verifican la secreción de jugos gástricos y retardan la actividad peristáltica, de manera que su presencia en las dietas retrasa el vaciado del estómago. Normalmente el estómago se desocupa en un lapso de tiempo de 4 a 6 horas.              
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
-      .col-lg-4.col-md-8
+      .col-lg-4.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-22.png') 
       .col-lg-8 
@@ -304,7 +304,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
-      .col-lg-9 
+      .col-lg-9.order-2.order-lg-1 
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
@@ -321,7 +321,7 @@
           .col-auto.mb-3
             h3.mb-0.fnd-2-1.fnd-2 Mecanismos de absorción
         p Se conocen tres (3) mecanismos para explicar la absorción:      
-      .col-lg-3.col-md-8
+      .col-lg-3.col-md-6.order-1.order-lg-2
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-23.png')  
 
@@ -353,7 +353,7 @@
               img(src="@/assets/curso/temas/tema3/img-26.png", alt="alt")
           .crd_hover_txt--body
             h6.mb-3 Transporte activo
-            p.mb-0 Se puede decir que la mayor absorción de los nutrientes se lleva a cabo mediante un transporte activo, puesto que es el encargado de bombear los nutrientes hacia arriba y desde el lumen a la circulación, esto quiere decir que los nutrientes se mueven desde un punto de baja concentración a otro de alta concentración. Para que esto funcione se requiere de energía y así realizarse el transporte activo; dicha energía es suministrada por el adenosín trifosfato (ATP) del mecanismo de la glucosa dentro de la célula. El sodio tiene un papel fundamental dentro del transporte activo del agua, azúcares y aminoácidos.
+            p.mb-0.pp1 Se puede decir que la mayor absorción de los nutrientes se lleva a cabo mediante un transporte activo, puesto que es el encargado de bombear los nutrientes hacia arriba y desde el lumen a la circulación, esto quiere decir que los nutrientes se mueven desde un punto de baja concentración a otro de alta concentración. Para que esto funcione se requiere de energía y así realizarse el transporte activo; dicha energía es suministrada por el adenosín trifosfato (ATP) del mecanismo de la glucosa dentro de la célula. El sodio tiene un papel fundamental dentro del transporte activo del agua, azúcares y aminoácidos.
 
 
 
