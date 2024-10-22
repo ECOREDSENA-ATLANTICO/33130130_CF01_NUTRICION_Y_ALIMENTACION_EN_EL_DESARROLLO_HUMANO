@@ -76,7 +76,7 @@
           img(src='@/assets/curso/temas/tema2/img-3.png') 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-md-6.mb-md-4
+      .col-lg-3.col-md-6.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img-4.png') 
 

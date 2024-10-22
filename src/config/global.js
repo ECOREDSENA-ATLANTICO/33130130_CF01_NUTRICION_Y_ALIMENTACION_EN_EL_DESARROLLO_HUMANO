@@ -4,7 +4,7 @@ export default {
       'Principales componentes de los alimentos: su rol en el gasto energético y la fisiología humana',
     descripcionCurso:
       'El desarrollo humano, desde la concepción, está ligado a una nutrición adecuada que proporciona nutrientes esenciales para la salud. Para entender la nutrición, es importante conocer los compuestos de los alimentos, como carbohidratos, proteínas, lípidos, vitaminas y minerales, y sus funciones. Esta unidad estudiará estos componentes, el valor energético de los alimentos, el gasto energético, y procesos como metabolismo, digestión y absorción, estableciendo una base sólida para las actividades propuestas.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal-m.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
