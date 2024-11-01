@@ -51,7 +51,7 @@
           .col.px-0
             p.mb-0 <b>Calorías totales:</b> 200 kcal.                  
 
-        p.mb-4 Necesidades energéticas del ser humano y el valor energético de los Alimentos. El consumo diario de energía depende de lo que requiera el cuerpo. Cuando sehabla de consumo diario se hace referencia a la cantidad de energía que gasta elcuerpo para suplir todas sus necesidades; este factor se llama Gasto calórico total.
+        p.mb-4 Necesidades energéticas del ser humano y el valor energético de los Alimentos. El consumo diario de energía depende de lo que requiera el cuerpo. Cuando se habla de consumo diario se hace referencia a la cantidad de energía que gasta elcuerpo para suplir todas sus necesidades; este factor se llama Gasto calórico total.
         p.mb-3 Los requerimientos diarios de energía se calculan como la suma de los siguientes factores:
                   
       .col-lg-3.col-md-6.mb-md-5
@@ -92,22 +92,22 @@
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Sexo:</b>Los hombres tienen mayor metabolismo basal que las mujeres.
+            p.mb-0 <b>Sexo: </b>los hombres tienen mayor metabolismo basal que las mujeres.
         .row.mb-3.pe-lg-3.align-items-center
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Talla:</b>Las personas altas tienen mayor metabolismo basal que las bajas.    
+            p.mb-0 <b>Talla: </b>las personas altas tienen mayor metabolismo basal que las bajas.    
         .row.mb-3.pe-lg-3.align-items-center
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Peso: </b>Cuando se tiene un mayor peso, se requiere de más metabolismo basal.
+            p.mb-0 <b>Peso: </b>cuando se tiene un mayor peso, se requiere de más metabolismo basal.
         .row.mb-3.pe-lg-3.align-items-center
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Edad:</b>Entre más joven, el metabolismo basal es más alto, esto se debe al crecimiento. 
+            p.mb-0 <b>Edad:</b> entre más joven, el metabolismo basal es más alto, esto se debe al crecimiento. 
         p.mb-4 Una fórmula muy utilizada para calcular la TMR es la de Harris - Benedict a partir del peso (P) (kg) y de la talla (T) (cm): 
 
       .col-lg-10
@@ -164,27 +164,27 @@
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Actividad muy leve:</b>Actividades en posición sentada y de pie: pintar, manejar, trabajo de laboratorio, computación, coser, planchar, cocinar, jugar cartas y tocar un instrumento musical.
+            p.mb-0 <b>Actividad muy leve: </b>actividades en posición sentada y de pie: pintar, manejar, trabajo de laboratorio, computación, coser, planchar, cocinar, jugar cartas y tocar un instrumento musical.
         .row.mb-3.pe-lg-3
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Actividad leve:</b>Caminar, trabajos eléctricos, trabajo en restaurante, limpieza de casa, cuidado de los niños, golf y tenis de mesa.                 
+            p.mb-0 <b>Actividad leve:</b> caminar, trabajos eléctricos, trabajo en restaurante, limpieza de casa, cuidado de los niños, golf y tenis de mesa.                 
         .row.mb-3.pe-lg-3
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Actividad moderada:</b>Caminar vigorosamente, cortar el pasto, bailar, ciclismo en superficie plana, esquiar, tenis y llevar una carga.              
+            p.mb-0 <b>Actividad moderada:</b> caminar vigorosamente, cortar el pasto, bailar, ciclismo en superficie plana, esquiar, tenis y llevar una carga.              
         .row.mb-3.pe-lg-3
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Actividad intensa:</b>Subir con carga por una pendiente, tala de árboles, excavación manual intensa, basquetbol, escalar, futbol, correr, natación, ciclismo con pendiente y aeróbicos. 
+            p.mb-0 <b>Actividad intensa:</b> subir con carga por una pendiente, tala de árboles, excavación manual intensa, basquetbol, escalar, futbol, correr, natación, ciclismo con pendiente y aeróbicos. 
         .row.mb-3.pe-lg-3
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 <b>Excepcional:</b>Atletas de alto rendimiento.                           
+            p.mb-0 <b>Excepcional:</b> atletas de alto rendimiento.                           
                   
       .col-lg-3.col-md-6.mb-3
         figure
@@ -214,7 +214,7 @@
         h3.mb-0 Método FAO, OMS y UNU
     p A continuación, se exponen las ecuaciones para calcular el gasto energético en reposo, elaboradas por expertos de la Organización de las Naciones Unidas para la Alimentación y la Agricultura, la Universidad de las Naciones Unidas y la Organización Mundial de la Salud:
 
-    p.mb-5 Para calcular el gasto energético en reposo se puede utilizar el método de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), la Organización Mundial de la Salud (OMS) y la Universidad de las Naciones Unidas (UNU): 1. Se calcula el gasto energético en reposo (GER) con las ecuaciones de la FAO,OMS y UNU. En esta ecuación se incluye el efecto térmico de los alimentos. 2. El gasto energético en reposo (GER) se multiplica por la constante del factor de actividad física.
+    p.mb-5 Para calcular el gasto energético en reposo se puede utilizar el método de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), la Organización Mundial de la Salud (OMS) y la Universidad de las Naciones Unidas (UNU): 1. Se calcula el gasto energético en reposo (GER) con las ecuaciones de la FAO, OMS y UNU. En esta ecuación se incluye el efecto térmico de los alimentos. 2. El gasto energético en reposo (GER) se multiplica por la constante del factor de actividad física.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
@@ -230,7 +230,7 @@
         .row
           .col-auto.mb-3
             h3.mb-0.fnd-2-1.fnd-2 Gasto energético en reposo (GER):
-        p Para hallar el gasto energético en reposo de esta mujer de 30 años se debe tener en cuenta la Tabla 1 del modelo de la FAO, OMS y UNU donde:La ecuación para estimar el gasto energético en reposo para una mujer de 30 años es la siguiente:
+        p Para hallar el gasto energético en reposo de esta mujer de 30 años se debe tener en cuenta la Tabla 1 del modelo de la FAO, OMS y UNU donde: la ecuación para estimar el gasto energético en reposo para una mujer de 30 años es la siguiente:
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         .row.justify-content-center.align-items-center.fnd-12

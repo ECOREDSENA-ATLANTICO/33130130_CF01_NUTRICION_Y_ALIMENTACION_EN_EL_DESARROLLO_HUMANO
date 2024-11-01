@@ -94,7 +94,7 @@
 
         .mb-5.tbl6
             table
-              caption Nota. News medical life sc iences (2016).
+              caption Nota. <i>New Medical Life  Sciences</i> (2016).
               thead
                 tr
                   td B1
@@ -224,8 +224,8 @@
                   .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
                     h5.text-center.mt-lg-5 Deficiencia de la vitamina D
                     p - El calcio no puede absorberse.
-                    p - Raquitismo en niños: Los huesos son blandos y flexibles, el estómago protuberante resultado de la laxación de músculos abdominales.
-                    p Osteomalacia: Es la malformación equiparable al raquitismo, pero en adultos, la prevención de osteomalacia con vitamina D, calcio y fósforo. 
+                    p - Raquitismo en niños: los huesos son blandos y flexibles, el estómago protuberante resultado de la laxación de músculos abdominales.
+                    p Osteomalacia: es la malformación equiparable al raquitismo, pero en adultos, la prevención de osteomalacia con vitamina D, calcio y fósforo. 
           
             .col-sm-6.col-xl-5.mb-4.mb-xl-0
               .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
@@ -264,7 +264,7 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Vitamina K        
-        p.mb-0  La vitamina E o también llamada tocoferol es liposoluble, es antioxidante y se encuentra en alimentos como maíz, trigo, girasol, cártamo y soya. Dicha vitamina cumple con las siguientes funciones:Es una vitamina liposoluble que permite la coagulación de la sangre, por lo cual es necesaria para el funcionamiento adecuado del sistema circulatorio y el cuerpo en general. Puede ser obtenida mediante el consumo de hortalizas de hoja verde como la espinaca, la col, el perejil, la lechuga, entre otras.  
+        p.mb-0  La vitamina E o también llamada tocoferol es liposoluble, es antioxidante y se encuentra en alimentos como maíz, trigo, girasol, cártamo y soya. Dicha vitamina cumple con las siguientes funciones: es una vitamina liposoluble que permite la coagulación de la sangre, por lo cual es necesaria para el funcionamiento adecuado del sistema circulatorio y el cuerpo en general. Puede ser obtenida mediante el consumo de hortalizas de hoja verde como la espinaca, la col, el perejil, la lechuga, entre otros.  
               
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -273,8 +273,8 @@
       .col-auto.px-0
         h3.mb-0 Minerales
     p.mb-3 Los minerales son sustancias naturales que están compuestas por moléculas formadas por átomos de uno o más elementos químicos. Estas son muy importantes para la salud del cuerpo humano ya que aportan los nutrientes necesarios para su correcto funcionamiento. Los minerales se dividen en dos clasificaciones:
-    p.mb-0 <b>Los macrominerales:</b> Son aquellos que se deben consumir en cantidades considerables. Entre ellos está el azufre, cloro, calcio, fósforo, magnesio, potasio y sodio
-    p <b>Los micro minerales:</b> Corresponden al grupo que se deben ingerir en cantidades mínimas. Entre ellos se encuentra el cobre, zinc, hierro, manganeso, yodo, flúor, cobalto y selenio.
+    p.mb-0 <b>Los macrominerales:</b> son aquellos que se deben consumir en cantidades considerables. Entre ellos está el azufre, cloro, calcio, fósforo, magnesio, potasio y sodio
+    p <b>Los micro minerales:</b> corresponden al grupo que se deben ingerir en cantidades mínimas. Entre ellos se encuentra el cobre, zinc, hierro, manganeso, yodo, flúor, cobalto y selenio.
    
 
     .row.justify-content-center.align-items-center.mb-5.fnd-8-2.p-lg-5.p-md-3(data-aos="zoom-in")
@@ -288,37 +288,37 @@
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Calcio:</b> Forma parte de la estructura ósea del cuerpo humano y tiene influencia en los procesos de contracción muscular.
+                  p.mb-0 <b>Calcio:</b> forma parte de la estructura ósea del cuerpo humano y tiene influencia en los procesos de contracción muscular.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Fósforo:</b> Participa en la estructura ósea.
+                  p.mb-0 <b>Fósforo:</b> participa en la estructura ósea.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Magnesio:</b> Forma parte del hueso y las secreciones del cuerpo; participa en las contracciones musculares y en la actividad enzimática.
+                  p.mb-0 <b>Magnesio:</b> forma parte del hueso y las secreciones del cuerpo; participa en las contracciones musculares y en la actividad enzimática.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Sodio:</b> Es el principal catión fuera de las células y cumple la función osmótica e influencia en las propiedades eléctricas de las células.
+                  p.mb-0 <b>Sodio:</b> es el principal catión fuera de las células y cumple la función osmótica e influencia en las propiedades eléctricas de las células.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Potasio:</b> Es considerado como el principal catión en el interior de las células, participa en el equilibrio del nivel de agua en las células y también influencia en las propiedades eléctricas de éstas.
+                  p.mb-0 <b>Potasio:</b> es considerado como el principal catión en el interior de las células, participa en el equilibrio del nivel de agua en las células y también influencia en las propiedades eléctricas de éstas.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Cloro:</b> Se encarga de acompañar a átomos cationes como el sodio y el potasio.
+                  p.mb-0 <b>Cloro:</b> se encarga de acompañar a átomos cationes como el sodio y el potasio.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Azufre:</b> Se encarga de regular la estructura de los tejidos conectivos que se encuentran en la piel y además de esto hace parte de las enzimas.
+                  p.mb-0 <b>Azufre:</b> se encarga de regular la estructura de los tejidos conectivos que se encuentran en la piel y además de esto hace parte de las enzimas.
 
 
             .col-lg-4.col-md-6
@@ -332,42 +332,42 @@
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Hierro: </b>Apoya las proteínas como la hemoglobina de la sangre, el citocromo en el transporte de energía y la catalasa que actúa como catalizador y reductor de otras sustancias.
+                  p.mb-0 <b>Hierro: </b> apoya las proteínas como la hemoglobina de la sangre, el citocromo en el transporte de energía y la catalasa que actúa como catalizador y reductor de otras sustancias.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Cobre:</b>Ayuda a movilizar el hierro.
+                  p.mb-0 <b>Cobre:</b> ayuda a movilizar el hierro.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Zinc:</b>Permite que el sistema inmunitario tras baje apropiadamente.
+                  p.mb-0 <b>Zinc:</b> permite que el sistema inmunitario tras baje apropiadamente.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Manganeso:</b>Participa en la síntesis de los ácidos grasos y algunas hormonas.
+                  p.mb-0 <b>Manganeso:</b> participa en la síntesis de los ácidos grasos y algunas hormonas.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Yodo:</b>Ayuda a la síntesis de las hormonas de la tiroides.
+                  p.mb-0 <b>Yodo:</b> ayuda a la síntesis de las hormonas de la tiroides.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Flúor:</b>Fortalece los huesos y previene caries en los dientes.
+                  p.mb-0 <b>Flúor:</b> fortalece los huesos y previene caries en los dientes.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Cobalto:</b>Estimula el buen funcionamiento de las células rojas y ayuda a reducir los niveles de azúcar enla sangre.
+                  p.mb-0 <b>Cobalto:</b> estimula el buen funcionamiento de las células rojas y ayuda a reducir los niveles de azúcar enla sangre.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Selenio:</b>Actúa como antioxidante.
+                  p.mb-0 <b>Selenio:</b> actúa como antioxidante.
 
             .col-lg-4.col-md-6
               figure

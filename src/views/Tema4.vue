@@ -77,35 +77,35 @@
         .col-lg-9
           SlyderF.custom(columnas="col-lg-6 col-md-6")
             .tarjeta.tarjeta--slyder.p-4.fnd-5
-              h5.mb-3 Ingestión de alimentos:
+              h5.mb-3.text-center Ingestión de alimentos
               p.mb-0 es el primer paso del proceso digestivo, donde los alimentos son introducidos en la boca, masticados y mezclados con saliva. Este proceso forma un bolo alimenticio que se traga y pasa al esófago. Es fundamental para proporcionar al cuerpo los nutrientes necesarios para su funcionamiento adecuado y mantener una buena salud.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-15.svg").m-auto
-              h5.mb-3 Digestión:
+              h5.mb-3.text-center Digestión
               p.mb-0 Es la que preparar los alimentos para ser usados en el cuerpo.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-16.svg").m-auto
-              h5.mb-3 Absorción:
+              h5.mb-3.text-center Absorción
               p.mb-0 Absorción de nutrientes del tracto gastrointestinal a la circulación.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-17.svg").m-auto
-              h5.mb-3 Transporte de nutrientes:
+              h5.mb-3.text-center Transporte de nutrientes
               p.mb-0 De nutrientes por medio del sistema circulatorios a los lugares donde son utilizados y de los desechos a los puntos de excreción.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-18.svg").m-auto
-              h5.mb-3 Respiración:
+              h5.mb-3.text-center Respiración
               p.mb-0 Suministra oxigeno a los alimentos y elimina el dióxido de carbono que se produce como desecho. El sistema respiratorio es de nuevo el responsable del transporte de estos gases.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-19.svg").m-auto
-              h5.mb-3 Uso de nutrientes:
+              h5.mb-3.text-center Uso de nutrientes
               p.mb-0 Los nutrientes son aprovechados por el organismo en el proceso de oxidación para producir calor y energía, y de esta manera ser usados por las nuevas células y tejidos.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
-              h5.mb-3 Excreción de desechos:
+              h5.mb-3.text-center Excreción de desechos
               p.mb-0 Alimentos no digeridos y ciertos productos del cuerpo se eliminan de diversas formas como por ejemplo : los  pulmones se puede desechar dióxido de carbono y sales minerales, mientras que por medio d ellos riñones y la piel se eliminan otras sustancias producto del metabolismo.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Principales componentes de los alimentos: su rol en el gasto energético y la fisiología humana',
     descripcionCurso:
-      'El desarrollo humano, desde la concepción, está ligado a una nutrición adecuada que proporciona nutrientes esenciales para la salud. Para entender la nutrición, es importante conocer los compuestos de los alimentos, como carbohidratos, proteínas, lípidos, vitaminas y minerales, y sus funciones. Esta unidad estudiará estos componentes, el valor energético de los alimentos, el gasto energético, y procesos como metabolismo, digestión y absorción, estableciendo una base sólida para las actividades propuestas.',
+      'El desarrollo humano, desde la concepción, está estrechamente vinculado a una nutrición adecuada, la cual suministra los nutrientes esenciales para mantener la salud. Para comprender la nutrición, es fundamental conocer los componentes de los alimentos, como carbohidratos, proteínas, lípidos, vitaminas y minerales, así como sus funciones. En esta unidad se analizarán estos elementos, el valor energético de los alimentos, el gasto energético y procesos como el metabolismo, la digestión y la absorción, con el objetivo de establecer una base sólida para las actividades propuestas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -168,7 +168,7 @@ export default {
     {
       termino: 'Hidratos de carbono',
       significado:
-        'los hidratos de carbono o glúcidos son moléculas de carbono, hidrógeno y oxígeno cuya fórmula es (CH2O)n, se clasifican en azúcares simples llamados monosacáridos, disacáridos y polisacáridos.',
+        'los hidratos de carbono o glúcidos son moléculas de carbono, hidrógeno y oxígeno cuya fórmula es (CH<sub>2</sub>O)_n, se clasifican en azúcares simples llamados monosacáridos, disacáridos y polisacáridos.',
     },
     {
       termino: 'Lípidos',
@@ -226,12 +226,17 @@ export default {
     {
       termino: 'Proteoglicanos',
       significado:
-        'es una glicoproteína que está unida a un tipo especial de polisacáridos. Triglicéridos: Son grasas naturales de baja densidad, lo cual les da la característica de almacenar energía en el tejido adiposo.',
+        'es una glicoproteína que está unida a un tipo especial de polisacáridos.',
+    },
+    {
+      termino: 'Triglicéridos',
+      significado:
+        'Son grasas naturales de baja densidad, lo cual les da la característica de almacenar energía en el tejido adiposo.',
     },
     {
       termino: 'Vitaminas',
       significado:
-        'compuestos orgánicos que el hombre necesita en dosis bajas para que el cuerpo se desarrolle adecuadamente, es necesario ingerirlas pues el organismo no tiene la capacidad de producirlas',
+        'compuestos orgánicos que el hombre necesita en dosis bajas para que el cuerpo se desarrolle adecuadamente, es necesario ingerirlas pues el organismo no tiene la capacidad de producirlas.',
     },
   ],
   referencias: [
@@ -259,13 +264,11 @@ export default {
     },
     {
       referencia:
-        'otolia. (2004). Nutrition facts label hanging on a rope. Vector. Consultado el 10 de mayo de 2014.',
-      link: 'http://co.fotolia.com/id/64693571',
+        'Fotolia. (2004). Nutrition facts label hanging on a rope. Vector. Consultado el 10 de mayo de 2014.',
     },
     {
       referencia:
         'Fotolia. (2004). Silhouette junges Mannes mit Magen-Darm-Trakt. Vector. Consultado el 10 de mayo de 2014.',
-      link: ' http://co.fotolia.com/id/39992078',
     },
     {
       referencia:
@@ -275,7 +278,7 @@ export default {
     },
     {
       referencia:
-        '(2013). Manual de Nutrición y Dietetica. En A. Carbajal Azcona. Marid.',
+        'Carbajal Azcona, Á. (2013). Manual de nutrición y dietética. Universidad Complutense ',
       link:
         'http://eprints.ucm.es/22755/1/Manual-nutricion-dietetica-CARBAJAL.pdf ',
     },
@@ -353,7 +356,7 @@ export default {
         },
         {
           nombre: 'Jorge Leonardo Camacho Pardo',
-          cargo: 'Desarrollor <em> full stack</em>',
+          cargo: 'Desarrollador <em> full stack</em>',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },

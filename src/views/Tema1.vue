@@ -60,13 +60,12 @@
               h5.mb-3 Estado nutricional:
               p.mb-0 Este puede determinarse correlacionando la información que se obtiene a través de una historia clínica y dietética, un análisis físico completo e investigaciones de laboratorio adecuadas.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
+              h5.mb-3 Mala nutrición:
+              p.mb-0 Se refiere al deterioro de la salud que se presenta como consecuencia de una deficiencia, exceso o desequilibrio de nutrientes. En la mala nutrición influyen factores como la desnutrición por deficiencia de calorías o de nutrientes esenciales; también se puede dar por el exceso nutrientes.              
+            .tarjeta.tarjeta--slyder.p-4.fnd-5
               h5.mb-3 Buena nutrición:
               p.mb-0 Este término hace referencia a las cantidades correctas de nutrientes esenciales que necesitan los seres humanos para obtener un buen desarrollo físico y mental a través de todo el ciclo de vida.
-            .tarjeta.tarjeta--slyder.p-4.fnd-5
-              h5.mb-3 Mala nutrición:
-              p.mb-0 Se refiere al deterioro de la salud que se presenta como consecuencia de una deficiencia, exceso o desequilibrio de nutrientes. En la mala nutrición influyen factores como la desnutrición por deficiencia de calorías o de nutrientes esenciales; también se puede dar por el exceso nutrientes.
-            .tarjeta.tarjeta--slyder.p-4.fnd-5
-              h5.mb-3 Buena nutrición:
+            
               p.mb-0 Es el esfuerzo de múltiples disciplinas y para lograrla se requiere lo siguiente: - La aplicación de la ciencia en la agricultura y la tecnología para producir cantidades suficientes de alimentos vegetales y animales de alto valor nutritivo.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -231,7 +230,7 @@
       .col-lg-5.col-md-8.p-0
         figure
           img(src='@/assets/curso/temas/tema1/img-17.png')
-      .col-lg-7.px-md-3.px-xl-5
+      .col-lg-7.px-md-3.px-xl-5.py-4
         h5.mb-0 Intestino delgado
         p.mb-0 Aumento del volumen y viscosidad del bolo (fibra soluble):
         p.mb-0 - Retraso de la digestión y enlentecimiento de la absorción intestinal.
@@ -385,22 +384,22 @@
                 td Carne de cordero
                 td 18 %
                 td Pastas
-                td 11 %
+                td 5%
               tr
                 td Carne pollo
                 td 21 % P
-                td Pastas
-                td 5%
-              tr
-                td Pescados
-                td 15 - 25 %
                 td Frutas
                 td 2.3 %
               tr
-                td Huevos
-                td 13 % V
+                td Pescados
+                td 15 - 25 %
                 td Verduras de hoja
                 td 03 - 1.5 % 
+              tr
+                td Huevos
+                td 13 % V
+                td 
+                td 
 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
