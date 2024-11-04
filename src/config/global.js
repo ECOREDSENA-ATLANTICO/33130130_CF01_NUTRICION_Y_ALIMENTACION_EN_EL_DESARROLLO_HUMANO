@@ -243,8 +243,6 @@ export default {
     {
       referencia:
         'Catherine Shaffer, M. (6 de Noviembre de 2016). News Medical Life Sc iences.',
-      link:
-        'http://www.news-medical.net/health/Types-of-Vitamin-B-(Spanish).aspx',
     },
     {
       referencia: 'Centro Médico Teknon. (2016).',
@@ -278,9 +276,8 @@ export default {
     },
     {
       referencia:
-        'Carbajal Azcona, Á. (2013). Manual de nutrición y dietética. Universidad Complutense ',
-      link:
-        'http://eprints.ucm.es/22755/1/Manual-nutricion-dietetica-CARBAJAL.pdf ',
+        'Carbajal Azcona, Á. (2013). Manual de nutrición y dietética. Universidad Complutense de Madrid.',
+      link: ' https://hdl.handle.net/20.500.14352/36607',
     },
     {
       referencia:

@@ -309,7 +309,7 @@
               img(src='@/assets/curso/temas/tema1/img-18.png')
 
 
-    .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
+    .row.mb-3.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
         figure
           img(src='@/assets/curso/temas/tema1/img-4.svg')
@@ -317,6 +317,7 @@
         h3.mb-0 Proteínas
       p.mt-4 Las proteínas son sustancias orgánicas que contienen en general una base de elementos químicos como el carbono, el hidrógeno, el oxígeno y el nitrógeno. Están formadas por cadenas lineales de aminoácidos los cuales están encadenados a enlaces peptídicos que se forman en el grupo carboxilo de un aminoácido; son compuestos que desempeñan muchas funciones en los seres humanos y hacen parte de los tejidos, tendones, músculos, piel y uñas, además desempeñan funciones metabólicas, reguladoras y transportan el oxígeno y grasas en la sangre. Hacen parte del código genético (ADN) lo que define la identidad de cada persona.
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      p.mb-5 Las proteínas son macromoléculas esenciales con diversas funciones en los organismos. Su estructura tridimensional, determinada por la secuencia de aminoácidos, permite realizar tareas como la catálisis de reacciones (enzimas), transporte de moléculas (hemoglobina), soporte estructural (colágeno) y defensa (anticuerpos). También regulan procesos biológicos mediante hormonas. Su versatilidad se basa en la interacción entre su estructura y los sustratos, desempeñando roles cruciales en la vida celular.
       .col-lg-10
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img-19.svg')

@@ -249,7 +249,7 @@
               p.mb-0 1304 x 1.5 = 1956 kcal
               p.mb-0 Gasto energético total (GET) = 1950
               p.mb-0 kcal/día” (Iñarritu, s.f.).
-
+            figcaption Fuente: Iñarritu, M. (s.f)
 
 
 
