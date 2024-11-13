@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno
+  BannerInterno.fnd-act
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
@@ -131,6 +131,8 @@
       .col-auto.px-0
         h3.mb-0 Monosacáridos
 
+    p.mb-4 En este grupo se encuentran la glucosa y la fructosa que son monosacáridos simples y están compuestos por seis átomos de carbono. No tienen la capacidad de hidrolizarse, lo que quiere decir que no reaccionan en presencia de agua para dividirse y formar nuevas estructuras. Este grupo de azúcares son los más sencillos de los carbohidratos, las demás clasificaciones de hidratos de carbono se descomponen en estos. Los monosacáridos se oxidan con facilidad y pueden realizar combustión con las moléculas de oxígeno, dando como resultado una fuente de energía para las células, lo que permite que el cuerpo funcione correctamente.  
+
     .row.justify-content-center.align-items-center.mb-5.fnd-8.p-lg-5.p-md-3(data-aos="zoom-in")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
         SlyderA(tipo="b")
@@ -166,6 +168,7 @@
       .col-auto.px-0
         h3.mb-0 Disacáridos
 
+    p Son los azúcares más abundantes en los alimentos, entre los más conocidos está la sacarosa, la lactosa y la maltosa que se conforman por la unión de dos monosacáridos que por hidrólisis en la digestión se convierten en hexosas. Este grupo de azúcares son importantes en la dieta de las personas porque aporta energía, componente esencial en el funcionamiento de los músculos.  
     .row.justify-content-center.align-items-center.mb-5.fnd-8-2.p-lg-5.p-md-3(data-aos="fade-right")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
         SlyderA(tipo="b")
@@ -317,13 +320,15 @@
         h3.mb-0 Proteínas
       p.mt-4 Las proteínas son sustancias orgánicas que contienen en general una base de elementos químicos como el carbono, el hidrógeno, el oxígeno y el nitrógeno. Están formadas por cadenas lineales de aminoácidos los cuales están encadenados a enlaces peptídicos que se forman en el grupo carboxilo de un aminoácido; son compuestos que desempeñan muchas funciones en los seres humanos y hacen parte de los tejidos, tendones, músculos, piel y uñas, además desempeñan funciones metabólicas, reguladoras y transportan el oxígeno y grasas en la sangre. Hacen parte del código genético (ADN) lo que define la identidad de cada persona.
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      p.mb-5 Las proteínas son macromoléculas esenciales con diversas funciones en los organismos. Su estructura tridimensional, determinada por la secuencia de aminoácidos, permite realizar tareas como la catálisis de reacciones (enzimas), transporte de moléculas (hemoglobina), soporte estructural (colágeno) y defensa (anticuerpos). También regulan procesos biológicos mediante hormonas. Su versatilidad se basa en la interacción entre su estructura y los sustratos, desempeñando roles cruciales en la vida celular.
+
       .col-lg-10
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img-19.svg')
+          img(src='@/assets/curso/temas/tema1/img-19.svg', alt='En el esquema se muestra las funciones reguladoras, contráctil, defensivas, energética y transporte.')
+        figcaption Fuente: Sena.
 
     p.mb-4 A continuación, se describen algunas de estas funciones:
 
+    p.mb-4 Las proteínas son vitales en el organismo, regulando el agua y el pH celular. Actúan como anticuerpos en el sistema inmunológico y son esenciales para la coagulación sanguínea. También transportan sustancias, como oxígeno a través de la hemoglobina y lípidos mediante lipoproteínas, desempeñando un papel crucial en la salud y el funcionamiento del cuerpo. 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-md-6.mb-5
         figure
@@ -350,7 +355,7 @@
 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
-          span Efectos de la fibra alimentaria
+          span Contenido de proteínas en algunos alimentos
 
         .tabla-b.color-acento-contenido.mb-5.tbl2
 

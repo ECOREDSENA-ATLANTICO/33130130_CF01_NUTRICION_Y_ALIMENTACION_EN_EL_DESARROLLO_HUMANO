@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno
+  BannerInterno.fnd-act
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
@@ -234,6 +234,7 @@
                   .tarjeta-flip__img.fl1(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-7.png')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5.fnd-7
                     h5.text-center.mt-lg-5 Fuentes alimenticias de vitamina D:
+                    p Sólo se encuentra en algunos alimentos en cantidades muy pequeñas: 
                     p - Yema de huevo.
                     p - Pescado azul.
                     p - Hígado.
@@ -264,7 +265,7 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Vitamina K        
-        p.mb-0  La vitamina E o también llamada tocoferol es liposoluble, es antioxidante y se encuentra en alimentos como maíz, trigo, girasol, cártamo y soya. Dicha vitamina cumple con las siguientes funciones: es una vitamina liposoluble que permite la coagulación de la sangre, por lo cual es necesaria para el funcionamiento adecuado del sistema circulatorio y el cuerpo en general. Puede ser obtenida mediante el consumo de hortalizas de hoja verde como la espinaca, la col, el perejil, la lechuga, entre otros.  
+        p.mb-0  Es una vitamina liposoluble que permite la coagulación de la sangre, por lo cual es necesaria para el funcionamiento adecuado del sistema circulatorio y el cuerpo en general. Puede ser obtenida mediante el consumo de hortalizas de hoja verde como la espinaca, la col, el perejil, la lechuga, entre otros.  
               
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -273,7 +274,7 @@
       .col-auto.px-0
         h3.mb-0 Minerales
     p.mb-3 Los minerales son sustancias naturales que están compuestas por moléculas formadas por átomos de uno o más elementos químicos. Estas son muy importantes para la salud del cuerpo humano ya que aportan los nutrientes necesarios para su correcto funcionamiento. Los minerales se dividen en dos clasificaciones:
-    p.mb-0 <b>Los macrominerales:</b> son aquellos que se deben consumir en cantidades considerables. Entre ellos está el azufre, cloro, calcio, fósforo, magnesio, potasio y sodio
+    p.mb-0 <b>Los macrominerales:</b> son aquellos que se deben consumir en cantidades considerables. Entre ellos está el azufre, cloro, calcio, fósforo, magnesio, potasio y sodio.
     p <b>Los micro minerales:</b> corresponden al grupo que se deben ingerir en cantidades mínimas. Entre ellos se encuentra el cobre, zinc, hierro, manganeso, yodo, flúor, cobalto y selenio.
    
 

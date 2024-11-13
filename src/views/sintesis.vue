@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno.fnd-act(icono="fas fa-sitemap" titulo="Síntesis")
+  BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     p.mb-5 La nutrición se basa en principios fundamentales que destacan la importancia de los macronutrientes (carbohidratos, proteínas y grasas) y micronutrientes (vitaminas y minerales) para mantener una dieta equilibrada y la salud. Las vitaminas son esenciales, cada una cumpliendo funciones específicas en el organismo, y su deficiencia o exceso puede tener graves consecuencias para la salud. Los alimentos aportan energía, medida en calorías, que el cuerpo utiliza para realizar diversas funciones vitales. Además, la composición del cuerpo humano y los procesos de metabolismo, digestión y absorción de nutrientes son cruciales para garantizar que los alimentos se utilicen de manera efectiva.
 

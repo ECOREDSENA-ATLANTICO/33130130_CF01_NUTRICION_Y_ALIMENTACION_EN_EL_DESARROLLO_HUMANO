@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno
+  BannerInterno.fnd-act
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
@@ -22,7 +22,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12
         figure
-          img(src='@/assets/curso/temas/tema3/img-2.svg')       
+          img(src='@/assets/curso/temas/tema3/img-2.svg', alt='Proteínas, Un gramo de proteína produce cuatro (4) kilocalorías.	Glúcidos, Un gramo de glúcidos produce cuatro (4) kilocalorías. Lípidos, Un gramo de lípidos produce nueve (9) kilocalorías')       
+
+
+    p.mb-4 Es importante tener claro que no todos los alimentos que se consumen se queman para producir energía; una gran parte de éstos los usa el organismo para construir estructuras y facilitar las reacciones químicas y así prolongar la vida. Un ejemplo de los nutrientes que no aportan energía son las fibras, vitaminas, minerales y oligoelementos. 
 
     .row(data-aos="zoom-in")
       .col-auto.mb-3
@@ -118,7 +121,7 @@
 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 7.
-          span Función del ejercico fícico realizado
+          span Función del ejercico físico realizado
         .tabla-b.color-acento-contenido.tbl4.tbl-r
           table.mb-4
             caption Nota. UNED (2017)

@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno
+  BannerInterno.fnd-act
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
@@ -24,7 +24,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-9     
         p El cuerpo está compuesto de agua distribuida en todos los tejidos que corresponde aproximadamente a las dos terceras partes del peso corporal de un individuo. Las tres cuartas partes están en el compartimiento intracelular, es decir, en el fluido que está dentro de la célula, mientras la cuarta parte restante se encuentra en el compartimiento extracelular que influye en la circulación sanguínea, la linfa y los fluidos intersticiales que cubren a todas las células. En los tejidos varía el contenido de agua dependiendo de su naturaleza, por ejemplo, los huesos, dientes y el tejido adiposo contienen poca cantidad. 
-        p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nacido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
+        p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nacido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa que puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
    
       .col-lg-3.col-md-6
         figure
@@ -83,7 +83,7 @@
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-15.svg").m-auto
               h5.mb-3.text-center Digestión
-              p.mb-0 Es la que preparar los alimentos para ser usados en el cuerpo.
+              p.mb-0 Es la que prepara los alimentos para ser usados en el cuerpo.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-16.svg").m-auto
@@ -106,7 +106,7 @@
               p.mb-0 Los nutrientes son aprovechados por el organismo en el proceso de oxidación para producir calor y energía, y de esta manera ser usados por las nuevas células y tejidos.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               h5.mb-3.text-center Excreción de desechos
-              p.mb-0 Alimentos no digeridos y ciertos productos del cuerpo se eliminan de diversas formas como por ejemplo : los  pulmones se puede desechar dióxido de carbono y sales minerales, mientras que por medio d ellos riñones y la piel se eliminan otras sustancias producto del metabolismo.
+              p.mb-0 Alimentos no digeridos y ciertos productos del cuerpo se eliminan de diversas formas como por ejemplo : los  pulmones, puede desechar dióxido de carbono y sales minerales, mientras que por medio de los riñones y la piel se eliminan otras sustancias producto del metabolismo.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-9 
@@ -281,13 +281,15 @@
             td La colecistoquinina contrae la vesícula biliar y permite la salida de bilis al duodeno.
             td 500-1100 ml, pH 6,9 a 8,6
             td Sales biliares, pigmentos biliares, colesterol, mucina.
-            td Neutraliza el quimo ácido, emulsiona las grasas para que actúe sobre ellas la lipasa, facilitando la absorción de grasas y vitaminas.
+            td Neutraliza el quimo ácido, emulsiona las grasas para que actúe sobre ellas la lipasa, facilitando la absorción de grasas para que actúe sobre ellas la lipasa, facilita la absorción de grasas y vitaminas.
+
           tr
             td <b>Páncreas: </b>jugo pancreático.
             td Secretina, Pancreozimina
             td 600-3000 ml, pH 7 a 8
-            td Jugo acuoso, alcalino, pobre en enzimas: Amilasa, Quimiotripsinógeno, Quimiotripsina, Tripsinógeno, Tripsina, Peptidasa, Lipasa.
-            td Neutraliza el líquido ácido: almidón dextrinas y maltosas.<br>Proteínas (proteasas), enzima inactiva (polipéptidos), grasas (monoglicéridos, ácidos grasos, glicerina).
+            td Jugo delgado, acuoso, alcalino y pobre en enzimas: Amilasa, Quimiotripsinógeno, Quimiotripsina, Tripsinógeno, Tripsina, Peptidasa, Lipasa.
+            td Neutraliza el líquido ácido: Almidón dextrinas y maltosas. Forma inactiva de una enzima Proteínas proteasas. Enzima inactiva: polipéptidos Péptidos. Grasas monoglicéridos, ácidos grasos y glicerina.
+
           tr
             td <b>Intestino delgado:</b> jugo intestinal (succus entericus).
             td <b>Enterocrinina: </b>Presencia de alimentos en el intestino delgado.

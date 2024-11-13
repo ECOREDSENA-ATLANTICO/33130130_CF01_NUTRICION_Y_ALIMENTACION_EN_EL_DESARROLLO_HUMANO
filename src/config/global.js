@@ -91,7 +91,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33130130 _CF001_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -286,7 +286,6 @@ export default {
     {
       referencia:
         'Nutrición deportiva. (s.f.). Servicio de nutrición. Pamplona, Navarra, España.',
-      link: 'http://www.podiumns.com/es/servicios/nutricion-deportiva',
     },
     {
       referencia:
