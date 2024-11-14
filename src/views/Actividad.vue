@@ -19,7 +19,7 @@ export default {
         'Principales componentes de los alimentos: su rol en el gasto energético y la fisiología humana.',
       titulo: 'Cuestionario',
       introduccion:
-        'Lea la afirmación de cada ítem y luego señale verdadero o falso según corresponda.',
+        'Preguntas de opción múltiple: lea los siguientes enunciados y seleccione la respuesta que considere correcta.',
       barajarPreguntas: false,
       preguntas: [
         {
