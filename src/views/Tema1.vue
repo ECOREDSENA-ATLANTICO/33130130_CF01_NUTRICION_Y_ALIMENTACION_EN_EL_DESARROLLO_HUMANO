@@ -68,15 +68,7 @@
             
               p.mb-0 Es el esfuerzo de múltiples disciplinas y para lograrla se requiere lo siguiente: - La aplicación de la ciencia en la agricultura y la tecnología para producir cantidades suficientes de alimentos vegetales y animales de alto valor nutritivo.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-8
 
-        .nutrition-box.mb-5 
-          .cont
-            p.mb-0 Buena nutrición es el esfuerzo de múltiples disciplinas y para lograrla se requiere lo siguiente:
-            p.mb-0 
-              strong La aplicación de la ciencia en la agricultura y la tecnología para producir cantidades suficientes de alimentos vegetales y animales de alto valor nutritivo.
-          img.pepper(src="@/assets/curso/temas/tema1/img-6.png")
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -229,23 +221,23 @@
       .col-auto.px-0
         h3.mb-0 Fibra
     p La fibra es de origen vegetal y se encuentra en las paredes celulares de los vegetales; los componentes más conocidos son: la celulosa, la hemicelulosa, las pectinas y la lignina.
-    .row.justify-content-center.align-items-center.mb-5.fl2(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5.fl3(data-aos="fade-left")
       .col-lg-5.col-md-8.p-0
         figure
           img(src='@/assets/curso/temas/tema1/img-17.png')
       .col-lg-7.px-md-3.px-xl-5.py-4
-        h5.mb-0 Intestino delgado
-        p.mb-0 Aumento del volumen y viscosidad del bolo (fibra soluble):
-        p.mb-0 - Retraso de la digestión y enlentecimiento de la absorción intestinal.
-        p.mb-0 - Aumento de absorción en enterocitos distales.
-        p - Disminuye la demanda de insulina porque reduce la liberación del polipéptido inhibidor gástrico.
-        h5.mb-0 Aumento del tránsito (fibra soluble)
-        p - Parte de los carbohidratos que se absorben mal.
+        h5.mb-2 Intestino delgado
+        h5.mb-0.ps-2 Aumento del volumen y viscosidad del bolo (fibra soluble):
+        p.mb-0.ps-3 ● Retraso de la digestión y enlentecimiento de la absorción intestinal.
+        p.mb-0.ps-3 ●  Aumento de absorción en enterocitos distales.
+        p.mb-0.ps-3 ● Disminuye la demanda de insulina porque reduce la liberación del polipéptido inhibidor gástrico.
+        h5.mb-0.ps-2 Aumento del tránsito (fibra soluble)
+        p.mb-3.ps-3 ● Parte de los carbohidratos que se absorben mal.
         h5.mb-0 Intestino grueso
-        p.mb-0 - Incremento de la motilidad:
-        p.mb-0 - Por acción mecánica y química.
-        p.mb-0 - Dilución de otros componentes de los alimentos.
-        p - Efectos derivados del metabolismo de los componentes de la fibra.
+        p.mb-0.ps-3 ● Incremento de la motilidad:
+        p.mb-0.ps-3 ● Por acción mecánica y química.
+        p.mb-0.ps-3 ● Dilución de otros componentes de los alimentos.
+        p.mb-0.ps-3 ● Efectos derivados del metabolismo de los componentes de la fibra.
 
  
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -300,7 +292,7 @@
                 .col.px-0
                   p.mb-0 Capacidad de retener agua.
 
-              p.mb-4 <b>Efectos beneficiosos de la fibra alimentaria frente a la diabetes:</b> El requerimiento de insulina en un adulto diabético insulinodependiente tipo l se reduce en un 40% aproximadamente y en uno insulinodependiente tipo II puede llegar a reducirse de un 80% a 100%.
+              p.mb-4 <b>Efectos beneficiosos de la fibra alimentaria frente a la diabetes:</b> el requerimiento de insulina en un adulto diabético insulinodependiente tipo l se reduce en un 40% aproximadamente y en uno insulinodependiente tipo II puede llegar a reducirse de un 80% a 100%.
             .row.align-items-center
               .col-auto.mb-3
                 h3.mb-0.fnd-2-1.fnd-2 Mecanismos de acción:
@@ -449,7 +441,7 @@
           h5 Tabla 4.
           span Necesidades de ingesta de aminoácidos esenciales (mg/kg/día)
 
-        .tabla-b.color-acento-contenido.mb-5.tbl3
+        .tabla-b.color-acento-contenido.mb-5.tbl3.tc1
           table
             caption Nota. Sena
             thead

@@ -176,6 +176,13 @@
   @media (max-width: 1200px)    
     h5 
       margin-top: 1rem        
+
+.fl3
+  background-color: #E6F8E6
+
+  @media (max-width: 1200px)    
+    h5 
+      margin-top: 1rem            
 .slyder-a__btn--sigt, .slyder-a__btn--atrs 
     background-color: #87DE87  
 .slyder-a__bullets__item 
@@ -188,6 +195,10 @@
 .nar
   font-size: 0.6rem !important
   margin-top: 0.4%
+.nar2
+  font-size: 0.3rem !important
+  margin-bottom: 0.5rem !important  
+  padding-bottom: 0.5rem
 .ml
   text-align: right
   font-weight: 900
@@ -229,7 +240,7 @@
     margin-right: 210px !important    
 @media (min-width: 1200px)   
   .car1
-    width: 291px !important  
+    width: 258px !important  
     transform: translateY(-50%)
     top: 50px
   .cont-t
@@ -302,8 +313,16 @@
       border-bottom: 2px solid #567D56
 .tc
   tbody
-    td
+    td:nth-child(2) 
       text-align: center   
+.tc1
+  tbody
+    td:nth-child(1) 
+      text-align: left        
+.tc2
+  thead
+      td
+        text-align: center !important         
 .lb-1
   border-bottom: 2px solid #FCC59A   
 .tbl3
@@ -663,3 +682,10 @@ $crd-w: calc(100% - ((#{$crd-i} / 2)))
 
 .tabla-b table
     min-width: 568px
+
+.nar3
+  font-size: 0.4rem !important
+  margin-left: 1.5rem
+  
+.lista-ul--color li > i:first-of-type 
+      color: #000000

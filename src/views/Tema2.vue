@@ -9,7 +9,7 @@
 
     p Las vitaminas son compuestos orgánicos que el hombre necesita en dosis bajas para que el cuerpo se desarrolle adecuadamente; es necesario ingerirlas pues el organismo no tiene la capacidad de producirlas, con excepción de unas cuantas. Las vitaminas se pueden obtener de los alimentos. En total el ser humano necesita de 12 vitaminas diferentes las cuales son: A, C, D, K y B en sus ocho variedades, estos compuestos en el cuerpo humano desempeñan funciones específicas y cuando hay deficiencia de éstas en la dieta se pueden desarrollar enfermedades.  
 
-    p <b>Clasificación de las vitaminas:</b> Situaciones de riesgo de deficiencia vitamínica.
+    p <b>Clasificación de las vitaminas:</b> situaciones de riesgo de deficiencia vitamínica.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-xl-4.col-lg-6.col-md-8
@@ -18,10 +18,10 @@
               img(src="@/assets/curso/temas/tema2/img-1.svg", alt="alt")          
             .crd_02__txt
               p.mb-1 <b>Ingesta insuficiente:</b>
-              p.mb-1 - Alcoholismo.
-              p.mb-1 - Tercera edad.
-              p.mb-1 - Regímenes hipocalóricos.
-              p.mb-1 - Vegetarianos estrictos.
+              p.mb-1 ●  Alcoholismo.
+              p.mb-1 ● Tercera edad.
+              p.mb-1 ● Regímenes hipocalóricos.
+              p.mb-1 ● Vegetarianos estrictos.
 
 
       .col-xl-4.col-lg-6.col-md-8
@@ -30,9 +30,13 @@
               img(src="@/assets/curso/temas/tema2/img-1.svg", alt="alt")          
             .crd_02__txt
               p.mb-1 <b>Necesidades metabólicas incrementadas:</b>
-              p.mb-1 - Embarazo y lactancia.
-              p.mb-1 - Periodos posoperatorios.
-              p.mb-1 - Enfermedades crónicas o infecciosas.
+              p.mb-1 ● Embarazo y lactancia.
+              p.mb-1 ● Periodos posoperatorios.
+              .row.mb-0.pe-lg-3
+                .col-auto.pe-2
+                  p.mb-0 ●
+                .col.px-0
+                  p.mb-0 Enfermedades crónicas o infecciosas.
 
       .col-xl-4.col-lg-6.col-md-8 
         .crd_02.mb-5
@@ -40,8 +44,18 @@
               img(src="@/assets/curso/temas/tema2/img-1.svg", alt="alt")          
             .crd_02__txt
               p.mb-1 <b>Interacción con medicamentos:</b>
-              p.mb-1 - Anticonceptivos orales y antibióticos.
-              p.mb-1 - Situaciones de mala absorción.
+              .row.mb-0.pe-lg-3
+                .col-auto.pe-2
+                  p.mb-0 ●
+                .col.px-0
+                  p.mb-0 Anticonceptivos orales y antibióticos.
+              .row.mb-4.pe-lg-3
+                .col-auto.pe-2
+                  p ●
+                .col.px-0
+                  p Situaciones de mala absorción.
+
+
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2

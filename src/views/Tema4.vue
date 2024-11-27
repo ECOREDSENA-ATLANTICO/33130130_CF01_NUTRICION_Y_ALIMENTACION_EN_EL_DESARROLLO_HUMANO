@@ -35,7 +35,7 @@
       .col-lg-8
         h5 Los elementos químicos predominantes en el cuerpo son:
         figure.mb-4
-          img(src='@/assets/curso/temas/tema3/img-12.svg')           
+          img(src='@/assets/curso/temas/tema3/img-12-.svg')           
         p Casi la mayoría de los constituyentes del cuerpo son compuestos orgánicos que se encuentran en cantidades muy pequeñas los cuales no tienen efectos sobre el peso total del cuerpo. Entre estos se encuentran las vitaminas, las hormonas y las enzimas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -46,7 +46,7 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col.px-0
             h3.mb-0 Las células como unidades de funcionamiento      
-        p El cuerpo humano puede estudiarse a varios niveles de organización: El organismo como un todo, los órganos y los tejidos, las células que forman los órganos, los tejidos y los componentes estructurales dentro de las células.
+        p El cuerpo humano puede estudiarse a varios niveles de organización: el organismo como un todo, los órganos y los tejidos, las células que forman los órganos, los tejidos y los componentes estructurales dentro de las células.
         p Los procesos nutricionales del organismo completo son la suma de las actividades físicas y químicas que tienen lugar dentro de las células y la relación que existe entre éstas y el medio que las rodea. El organismo vivo más simple está formado por una célula como es el caso de las bacterias, en cambio, en el organismo más complejo que son los seres humanos las células llevan a cabo sus múltiples actividades, pero no pueden existir independientemente, pues funcionan a través de la coordinación sumamente compleja con otras células.
 
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
@@ -98,7 +98,7 @@
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-18.svg").m-auto
               h5.mb-3.text-center Respiración
-              p.mb-0 Suministra oxigeno a los alimentos y elimina el dióxido de carbono que se produce como desecho. El sistema respiratorio es de nuevo el responsable del transporte de estos gases.
+              p.mb-0 Suministra oxígeno a los alimentos y elimina el dióxido de carbono que se produce como desecho. El sistema respiratorio es de nuevo el responsable del transporte de estos gases.
             .tarjeta.tarjeta--slyder.p-4.fnd-5
               figure.mb-4(data-aos="zoom-in")
                 img.img-tar(src="@/assets/curso/temas/tema3/img-19.svg").m-auto
@@ -191,13 +191,13 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-21.png', alt='Proceso de digestión mecánica. Motilidad a través del tracto')
           .tarjeta.color-acento-botones.fnd-10.p-3(x="36.2%" y="17.8%" numero="1")
-            p.mb-0 Los alimentos son cortados y molidos en la masticación, luego se mezcla con la saliva y se preparar para ser deglutidos.
+            p.mb-0 Los alimentos son cortados y molidos en la masticación, luego se mezcla con la saliva y se prepara para ser deglutidos.
             p.ml 01
           .tarjeta.color-acento-botones.fnd-10.p-3(x="51.4%" y="20.2%" numero="2")
-            p Mediante las contracciones rítmicas del musculo del esófago dirige las partículas al fondo del estómago (que sirve como recipiente).
+            p Mediante las contracciones rítmicas del músculo del esófago dirige las partículas al fondo del estómago (que sirve como recipiente).
             p.ml 02
           .tarjeta.color-acento-botones.fnd-10.p-3(x="49.5%" y="35%" numero="3")
-            p El alimento se expande en las paredes del estómago, como hay poca actividad secretora el alimento permanece en el fondo una hora. En este periodo continua la digestión salival de los carbohidratos.
+            p El alimento se expande en las paredes del estómago, como hay poca actividad secretora, el alimento permanece en el fondo una hora. En este periodo continua la digestión salival de los carbohidratos.
             p.ml 03
           .tarjeta.color-acento-botones.fnd-10.p-3(x="60.4%" y="52.5%" numero="4")
             p Se crean pequeñas contracciones en la región central generando intensidad intestinal, el alimento se mezcla con los jugos gástricos y se rompe, reduciéndose a una consistencia delgada semejante a una sopa denominada quimo.
@@ -206,7 +206,7 @@
             p La válvula del píloro se abre de tiempo en tiempo permitiendo que pequeñas cantidades de quimo entren el duodeno.
             p.ml 05
           .tarjeta.color-acento-botones.fnd-10.p-3(x="45%" y="60.8%" numero="6")
-            p El alimento se expande en las paredes del estómago, como hay poca actividad secretora el alimento permanece en el fundus durante una hora.
+            p El alimento se expande en las paredes del estómago, como hay poca actividad secretora, el alimento permanece en el fundus durante una hora.
             p.ml 06
           .tarjeta.color-acento-botones.fnd-10.p-3(x="58%" y="67.8%" numero="7")
             p El alimento se mezcla con los jugos gástricos y se rompe reduciéndose a una consistencia delgada semejante a una sopa llamada quimo.
@@ -215,10 +215,10 @@
             p La válvula del píloro se abre de tiempo en tiempo permitiendo que pequeñas cantidades de quimo entren en el duodeno, En el intestino delgado las fibras musculares generan contracciones para que el quimo se mezcle con las enzimas digestivas.
             p.ml 08
           .tarjeta.color-acento-botones.fnd-10.p-3(x="58%" y="77.8%" numero="9")
-            p A medidas que las fibras musculares longitudinales se contraen, se mezclan con la saliva y se preparan para ser deglutidos, entonces se produce el movimiento que lleva la masa del alimento hacia adelante.
+            p A medida que las fibras musculares longitudinales se contraen, se mezclan con la saliva y se preparan para ser deglutidos, entonces se produce el movimiento que lleva la masa del alimento hacia adelante.
             p.ml 09
           .tarjeta.color-acento-botones.fnd-10.p-3(x="47.5%" y="90.8%" numero="10")
-            p La masa muscular del tracto también sirve como estímulo a la secreción d ellos jugos digestivos y aumentan el suministro de sangre a los órganos digestivos.
+            p La masa muscular del tracto también sirve como estímulo a la secreción de los jugos digestivos y aumentan el suministro de sangre a los órganos digestivos.
             p.ml 10
             
     p.mb-4 La velocidad con la que se mueven los alimentos a través del tracto digestivo depende de la consistencia, composición y cantidad del alimento digerido. Por ejemplo, los líquidos empiezan a dejar el estómago 15 minutos después de ser ingeridos, esto explica por qué las dietas líquidas no producen gran saciedad; cuando los carbohidratos se ingieren solos, dejan el estómago más rápido que las proteínas; mientras que las grasas verifican la secreción de jugos gástricos y retardan la actividad peristáltica, de manera que su presencia en las dietas retrasa el vaciado del estómago. Normalmente el estómago se desocupa en un lapso de tiempo de 4 a 6 horas.              
@@ -235,13 +235,13 @@
           .col-auto.px-0
             h3.mb-0 Digestión química
         p En diversas regiones del tracto digestivo existe una mezcla compleja que debe hidrolizarse. Dependiendo del lugar, ésta incluye materiales alimenticios en varias etapas de hidrolisis, secreciones de fluidos digestivos que contienen enzimas y hormonas, materiales celulares procedentes de la exfoliación de la mucosa, bilis, bacterias y diversos productos del metabolismo dentro del cuerpo que han penetrado en el tracto digestivo.
-        p Diariamente se produce un gran volumen de jugos digestivos en las células secretorias del tracto digestivo, tanto en el páncreas como en el hígado; estos jugos están constituidos por un 98% a un 99% de agua y contienen diversas proporciones de compuestos orgánicos e inorgánicos. Uno de los compuestos inorgánicos más importantes es la mucina, que es una glicoproteína que proporciona al moco la propiedad de ser resbaladizo, facilitando el movimiento suave a lo largo del tracto. 
+        p Diariamente se produce un gran volumen de jugos digestivos en las células secretoras del tracto digestivo, tanto en el páncreas como en el hígado; estos jugos están constituidos por un 98% a un 99% de agua y contienen diversas proporciones de compuestos orgánicos e inorgánicos. Uno de los compuestos inorgánicos más importantes es la mucina, que es una glicoproteína que proporciona al moco la propiedad de ser resbaladizo, facilitando el movimiento suave a lo largo del tracto. 
         p La mayor parte de la actividad hidrolítica sobre los alimentos ocurre en el intestino delgado.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 9.
       span Jugos digestivos y sus acciones
-    .tabla-b.color-acento-contenido.tbl5.mb-5(data-aos="fade-right")
+    .tabla-b.color-acento-contenido.tbl5.mb-5.tc2(data-aos="fade-right")
       table
         caption Fuente: Corinne (1985)
         thead
@@ -266,14 +266,14 @@
             td Pepsinógeno, Pepsina, bactericida, reduce el hierro férrico a hierro ferroso.
           tr
             td <b>Células principales.</b>
-            td 
-            td 
+            td N/A 
+            td N/A 
             td Pepsinógeno, Pepsina
             td Forma inactiva de la pepsina.<br>Proteínas, proteasas, peptonas y polipéptidos.
           tr
             td <b>Epitelio columnar.</b>
-            td 
-            td 
+            td N/A 
+            td N/A 
             td Lipasa, Renina (Sólo en infantes)
             td Grasas emulsificantes, ácidos grasos más glicerina.<br>Caseína – paracaseína, permite la absorción de la vitamina B12.
           tr
@@ -298,8 +298,8 @@
             td Tripsinógeno a tripsina. Polipéptidos a aminoácidos.<br>Ácido nucleico a nucleótidos. Nucleótidos a nucleósidos más fosfato de colina.<br>Lecitina a diglicéridos más fosfato de colina.
           tr
             td <b>Dentro de las células de la mucosa.</b>
-            td 
-            td 
+            td N/A 
+            td N/A 
             td Sacarasa (invertasa), Maltasa, Lactasa
             td Lecitina a diglicéridos más fosfato de colina.<br>Maltosa a glucosa más fructosa.<br>Lactosa a glucosa más galactosa.
 
@@ -355,7 +355,7 @@
               img(src="@/assets/curso/temas/tema3/img-26.png", alt="alt")
           .crd_hover_txt--body
             h6.mb-3 Transporte activo
-            p.mb-0.pp1 Se puede decir que la mayor absorción de los nutrientes se lleva a cabo mediante un transporte activo, puesto que es el encargado de bombear los nutrientes hacia arriba y desde el lumen a la circulación, esto quiere decir que los nutrientes se mueven desde un punto de baja concentración a otro de alta concentración. Para que esto funcione se requiere de energía y así realizarse el transporte activo; dicha energía es suministrada por el adenosín trifosfato (ATP) del mecanismo de la glucosa dentro de la célula. El sodio tiene un papel fundamental dentro del transporte activo del agua, azúcares y aminoácidos.
+            p.mb-0.pp1 Se puede decir que la mayor absorción de los nutrientes se lleva a cabo mediante un transporte activo, puesto que es el encargado de bombear los nutrientes hacia arriba y desde el lumen a la circulación, esto quiere decir que los nutrientes se mueven desde un punto de baja concentración a otro de alta concentración. Para que esto funcione se requiere de energía y así realizarse el transporte activo; dicha energía es suministrada por el adenosín trifosfato (ATP) del mecanismo de la glucosa dentro de la célula. El sodio tiene un papel fundamental dentro del transporte activo del agua, azucares y aminoácidos.
 
 
 
