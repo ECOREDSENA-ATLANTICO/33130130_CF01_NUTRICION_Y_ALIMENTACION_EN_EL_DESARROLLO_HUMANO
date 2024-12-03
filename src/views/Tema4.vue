@@ -12,7 +12,7 @@
           img(src='@/assets/curso/temas/tema3/img-10.png')      
       .col-lg-9     
         p El reconocimiento de las necesidades nutricionales calculadas, no son suficientes si no se reconoce el funcionamiento del cuerpo, el cual es particular a cada individuo. La importancia de conocer el concepto de metabolismo, entendido como el conjunto de procesos físicos y químicos que se desarrollan en la célula, radica en la necesidad de identificar fundamentalmente como el organismo convierte los nutrientes de los alimentos en energía necesaria para que el cuerpo cumpla todas las funciones vitales, desde la ingestión del alimento hasta su absorción.
-        p De esta manera, esta temática aborda a partir del conocimiento de la composición básica del cuerpo humano, la comprensión de dos de los procesos fundamentales del metabolismo humano: la digestión y la absorción.
+        p De esta manera, esta temática aborda, a partir del conocimiento de la composición básica del cuerpo humano, la comprensión de dos de los procesos fundamentales del metabolismo humano: la digestión y la absorción.
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -23,7 +23,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-9     
-        p El cuerpo está compuesto de agua distribuida en todos los tejidos que corresponde aproximadamente a las dos terceras partes del peso corporal de un individuo. Las tres cuartas partes están en el compartimiento intracelular, es decir, en el fluido que está dentro de la célula, mientras la cuarta parte restante se encuentra en el compartimiento extracelular que influye en la circulación sanguínea, la linfa y los fluidos intersticiales que cubren a todas las células. En los tejidos varía el contenido de agua dependiendo de su naturaleza, por ejemplo, los huesos, dientes y el tejido adiposo contienen poca cantidad. 
+        p El cuerpo está compuesto de agua distribuida en todos los tejidos, que corresponde aproximadamente a las dos terceras partes del peso corporal de un individuo. Las tres cuartas partes están en el compartimiento intracelular, es decir, en el fluido que está dentro de la célula, mientras la cuarta parte restante se encuentra en el compartimiento extracelular que influye en la circulación sanguínea, la linfa y los fluidos intersticiales que cubren a todas las células. En los tejidos varía el contenido de agua dependiendo de su naturaleza, por ejemplo, los huesos, dientes y el tejido adiposo contienen poca cantidad. 
         p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nacido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa que puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
    
       .col-lg-3.col-md-6
@@ -47,7 +47,7 @@
           .col.px-0
             h3.mb-0 Las células como unidades de funcionamiento      
         p El cuerpo humano puede estudiarse a varios niveles de organización: el organismo como un todo, los órganos y los tejidos, las células que forman los órganos, los tejidos y los componentes estructurales dentro de las células.
-        p Los procesos nutricionales del organismo completo son la suma de las actividades físicas y químicas que tienen lugar dentro de las células y la relación que existe entre éstas y el medio que las rodea. El organismo vivo más simple está formado por una célula como es el caso de las bacterias, en cambio, en el organismo más complejo que son los seres humanos las células llevan a cabo sus múltiples actividades, pero no pueden existir independientemente, pues funcionan a través de la coordinación sumamente compleja con otras células.
+        p Los procesos nutricionales del organismo completo son la suma de las actividades físicas y químicas que tienen lugar dentro de las células y la relación que existe entre estas y el medio que las rodea. El organismo vivo más simple está formado por una célula como es el caso de las bacterias, en cambio, en el organismo más complejo que son los seres humanos las células llevan a cabo sus múltiples actividades, pero no pueden existir independientemente, pues funcionan a través de la coordinación sumamente compleja con otras células.
 
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
@@ -55,14 +55,14 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 La naturaleza de las enzimas      
-        p Todos los seres vivos producen miles de enzimas sin las cuales la mayoría de las reacciones químicas que se realizan internamente no podrían llevarse a cabo. Las enzimas son catalizadores orgánicos de naturaleza proteica que aumentan considerablemente la velocidad de las reacciones. Cuando una proteína se desnaturaliza por medio del calor, se pierde en muchos casos la actividad de esta.
+        p Todos los seres vivos producen miles de enzimas, sin las cuales la mayoría de las reacciones químicas que se realizan internamente no podrían llevarse a cabo. Las enzimas son catalizadores orgánicos de naturaleza proteica que aumentan considerablemente la velocidad de las reacciones. Cuando una proteína se desnaturaliza por medio del calor, se pierde en muchos casos la actividad de esta.
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2
             figure
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 El Metabolismo      
-        p El metabolismo es un sin número de reacciones bioquímicas y fisicoquímicas que ocurren en las células y el organismo; en los seres humanos es realizado por enzimas que son generadas por el hígado.         
+        p El metabolismo es un sinnúmero de reacciones bioquímicas y fisicoquímicas que ocurren en las células y el organismo; en los seres humanos es realizado por enzimas que son generadas por el hígado.         
 
       .col-lg-4.col-md-6
         figure.mb-4
@@ -116,19 +116,19 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Digestión
-        p La digestión es un proceso que comprende procesos mecánicos y químicos por medio de los cuales los materiales alimenticios complejos son hidrolizados a formas adecuadas para ser absorbidos por la pared de la mucosa y así ser utilizados por el organismo. Sólo unas cuantas sustancias que hacen parte de los alimentos son utilizadas por el cuerpo sin sufrir ningún cambio, estas son: agua, azucares simples, algunas sales minerales y vitaminas.
+        p La digestión es un proceso que comprende procesos mecánicos y químicos por medio de los cuales los materiales alimenticios complejos son hidrolizados a formas adecuadas para ser absorbidos por la pared de la mucosa y así ser utilizados por el organismo. Sólo unas cuantas sustancias que hacen parte de los alimentos son utilizadas por el cuerpo sin sufrir ningún cambio, estas son: agua, azúcares simples, algunas sales minerales y vitaminas.
         p Uno de los constituyentes en la digestión son las enzimas, pues descomponen los nutrientes de los alimentos ingeridos en compuestos simples para que así puedan ser absorbidos por el organismo. 
         .row.align-items-center
           .col-auto.mb-3
             h3.mb-0.fnd-2-1.fnd-2 Controladores del tracto digestivo.
-        p La secreción y los jugos gástricos, la actividad motora del tracto y la velocidad de la digestión es regulada por factores nerviosos, químicos y físicos. Un ejemplo de esto es el pensamiento, la vista y el aroma de los alimentos; dichos factores hacen que se incremente el flujo de saliva y los jugos gástricos, pero cuando una persona tiene preocupación o miedo disminuye los jugos gástricos ocasionando un atraso en la digestión. El sistema nervioso autonómico ejerce continuo control sobre la actividad secretoria y motora en todo el tracto digestivo, la presión de los alimentos contra las membranas mucosas y las características específicas de estos sirven como estímulo a los nervios.
+        p La secreción y los jugos gástricos, la actividad motora del tracto y la velocidad de la digestión, son reguladas por factores nerviosos, químicos y físicos. Un ejemplo de esto es el pensamiento, la vista y el aroma de los alimentos; dichos factores hacen que se incremente el flujo de saliva y los jugos gástricos, pero cuando una persona tiene preocupación o miedo, disminuye los jugos gástricos, ocasionando un atraso en la digestión. El sistema nervioso autonómico ejerce continuo control sobre la actividad secretoria y motora en todo el tracto digestivo. La presión de los alimentos contra las membranas mucosas y las características específicas de estos sirven como estímulo a los nervios.
      
       .col-lg-3.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema3/img-20.png')  
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12                  
-        p <b>Las hormonas son mensajeros químicos que se producen en un punto determinado como el resultando de un estímulo de alimentos específicos:   </b>
+        p <b>Las hormonas son mensajeros químicos que se producen en un punto determinado, como el resultando de un estímulo de alimentos específicos:   </b>
         .titulo-sexto.color-acento-contenido
           h5 Tabla 8.
           span Las hormonas
@@ -162,7 +162,7 @@
                 td Secretina
                 td Duodeno
                 td Quimo acido y polipéptidos.
-                td Secreción del jugo pancreático, delgado, alcalino, y pobres en encimas.
+                td Secreción del jugo pancreático delgado, alcalino y pobre en encimas.
               tr
                 td Pancreozimina
                 td Duodeno y yeyuno
@@ -191,13 +191,13 @@
             figure
               img(src='@/assets/curso/temas/tema3/img-21.png', alt='Proceso de digestión mecánica. Motilidad a través del tracto')
           .tarjeta.color-acento-botones.fnd-10.p-3(x="36.2%" y="17.8%" numero="1")
-            p.mb-0 Los alimentos son cortados y molidos en la masticación, luego se mezcla con la saliva y se prepara para ser deglutidos.
+            p.mb-0 Los alimentos son cortados y molidos en la masticación, luego se mezclan con la saliva y se prepara para ser deglutidos.
             p.ml 01
           .tarjeta.color-acento-botones.fnd-10.p-3(x="51.4%" y="20.2%" numero="2")
             p Mediante las contracciones rítmicas del músculo del esófago dirige las partículas al fondo del estómago (que sirve como recipiente).
             p.ml 02
           .tarjeta.color-acento-botones.fnd-10.p-3(x="49.5%" y="35%" numero="3")
-            p El alimento se expande en las paredes del estómago, como hay poca actividad secretora, el alimento permanece en el fondo una hora. En este periodo continua la digestión salival de los carbohidratos.
+            p El alimento se expande en las paredes del estómago, como hay poca actividad secretora, el alimento permanece en el fondo una hora. En este periodo continúa la digestión salival de los carbohidratos.
             p.ml 03
           .tarjeta.color-acento-botones.fnd-10.p-3(x="60.4%" y="52.5%" numero="4")
             p Se crean pequeñas contracciones en la región central generando intensidad intestinal, el alimento se mezcla con los jugos gástricos y se rompe, reduciéndose a una consistencia delgada semejante a una sopa denominada quimo.
@@ -221,7 +221,7 @@
             p La masa muscular del tracto también sirve como estímulo a la secreción de los jugos digestivos y aumentan el suministro de sangre a los órganos digestivos.
             p.ml 10
             
-    p.mb-4 La velocidad con la que se mueven los alimentos a través del tracto digestivo depende de la consistencia, composición y cantidad del alimento digerido. Por ejemplo, los líquidos empiezan a dejar el estómago 15 minutos después de ser ingeridos, esto explica por qué las dietas líquidas no producen gran saciedad; cuando los carbohidratos se ingieren solos, dejan el estómago más rápido que las proteínas; mientras que las grasas verifican la secreción de jugos gástricos y retardan la actividad peristáltica, de manera que su presencia en las dietas retrasa el vaciado del estómago. Normalmente el estómago se desocupa en un lapso de tiempo de 4 a 6 horas.              
+    p.mb-4 La velocidad con la que se mueven los alimentos a través del tracto digestivo depende de la consistencia, composición y cantidad del alimento digerido. Por ejemplo, los líquidos empiezan a dejar el estómago 15 minutos después de ser ingeridos, esto explica por qué las dietas líquidas no producen gran saciedad; cuando los carbohidratos se ingieren solos, dejan el estómago más rápido que las proteínas; mientras que las grasas verifican la secreción de jugos gástricos y retardan la actividad peristáltica, de manera que su presencia en las dietas retrasa el vaciado del estómago. Normalmente, el estómago se desocupa en un lapso de tiempo de 4 a 6 horas.              
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-4.col-md-6
@@ -234,8 +234,8 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Digestión química
-        p En diversas regiones del tracto digestivo existe una mezcla compleja que debe hidrolizarse. Dependiendo del lugar, ésta incluye materiales alimenticios en varias etapas de hidrolisis, secreciones de fluidos digestivos que contienen enzimas y hormonas, materiales celulares procedentes de la exfoliación de la mucosa, bilis, bacterias y diversos productos del metabolismo dentro del cuerpo que han penetrado en el tracto digestivo.
-        p Diariamente se produce un gran volumen de jugos digestivos en las células secretoras del tracto digestivo, tanto en el páncreas como en el hígado; estos jugos están constituidos por un 98% a un 99% de agua y contienen diversas proporciones de compuestos orgánicos e inorgánicos. Uno de los compuestos inorgánicos más importantes es la mucina, que es una glicoproteína que proporciona al moco la propiedad de ser resbaladizo, facilitando el movimiento suave a lo largo del tracto. 
+        p En diversas regiones del tracto digestivo existe una mezcla compleja que debe hidrolizarse. Dependiendo del lugar, esta incluye materiales alimenticios en varias etapas de hidrólisis, secreciones de fluidos digestivos que contienen enzimas y hormonas, materiales celulares procedentes de la exfoliación de la mucosa, bilis, bacterias y diversos productos del metabolismo dentro del cuerpo que han penetrado en el tracto digestivo.
+        p Diariamente, se produce un gran volumen de jugos digestivos en las células secretoras del tracto digestivo, tanto en el páncreas como en el hígado; estos jugos están constituidos por un 98% a un 99% de agua y contienen diversas proporciones de compuestos orgánicos e inorgánicos. Uno de los compuestos inorgánicos más importantes es la mucina, que es una glicoproteína que proporciona al moco la propiedad de ser resbaladizo, facilitando el movimiento suave a lo largo del tracto. 
         p La mayor parte de la actividad hidrolítica sobre los alimentos ocurre en el intestino delgado.
 
     .titulo-sexto.color-acento-contenido
@@ -274,7 +274,7 @@
             td <b>Epitelio columnar.</b>
             td N/A 
             td N/A 
-            td Lipasa, Renina (Sólo en infantes)
+            td Lipasa, Renina (Solo en infantes)
             td Grasas emulsificantes, ácidos grasos más glicerina.<br>Caseína – paracaseína, permite la absorción de la vitamina B12.
           tr
             td <b>Hígado:</b> bilis.
@@ -313,7 +313,7 @@
               img(src='@/assets/curso/temas/tema1/img-4.svg')
           .col-auto.px-0
             h3.mb-0 Absorción
-        p Es el proceso por el cual los nutrientes se mueven desde el lumen intestinal hasta la sangre, dando como resultado la absorción de nutrientes en el organismo. Es un proceso activo en el cual las sustancias son transportadas dentro del cuerpo; también es un proceso selectivo en el cual algunos materiales como la glucosa es transportada casi en su totalidad a través de las células. Otro ejemplo, es el del calcio y el hierro que se absorben solamente de acuerdo con las necesidades del organismo.
+        p Es el proceso por el cual los nutrientes se mueven desde el lumen intestinal hasta la sangre, dando como resultado la absorción de nutrientes en el organismo. Es un proceso activo en el cual las sustancias son transportadas dentro del cuerpo; también es un proceso selectivo en el cual algunos materiales como la glucosa es transportada casi en su totalidad a través de las células. Otro ejemplo es el del calcio y el hierro que se absorben solamente de acuerdo con las necesidades del organismo.
 
         .row.align-items-center
           .col-auto.mb-3
@@ -355,7 +355,7 @@
               img(src="@/assets/curso/temas/tema3/img-26.png", alt="alt")
           .crd_hover_txt--body
             h6.mb-3 Transporte activo
-            p.mb-0.pp1 Se puede decir que la mayor absorción de los nutrientes se lleva a cabo mediante un transporte activo, puesto que es el encargado de bombear los nutrientes hacia arriba y desde el lumen a la circulación, esto quiere decir que los nutrientes se mueven desde un punto de baja concentración a otro de alta concentración. Para que esto funcione se requiere de energía y así realizarse el transporte activo; dicha energía es suministrada por el adenosín trifosfato (ATP) del mecanismo de la glucosa dentro de la célula. El sodio tiene un papel fundamental dentro del transporte activo del agua, azucares y aminoácidos.
+            p.mb-0.pp1 Se puede decir que la mayor absorción de los nutrientes se lleva a cabo mediante un transporte activo, puesto que es el encargado de bombear los nutrientes hacia arriba y desde el lumen a la circulación, esto quiere decir que los nutrientes se mueven desde un punto de baja concentración a otro de alta concentración. Para que esto funcione se requiere de energía y así realizarse el transporte activo; dicha energía es suministrada por el adenosín trifosfato (ATP) del mecanismo de la glucosa dentro de la célula. El sodio tiene un papel fundamental dentro del transporte activo del agua, azúcares y aminoácidos.
 
 
 

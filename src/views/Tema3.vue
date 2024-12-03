@@ -15,8 +15,8 @@
       .col-lg-9
         .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
           .col-auto.pe-2      
-        p.mb-5  El valor energético de un alimento es la cantidad de energía que éste aporta al cuerpo humano y resulta de la combustión de los lípidos, proteínas y glúcidos. Esta energía es utilizada por el cuerpo para mantener la temperatura y realizar todas sus funciones; se expresa en calorías (cal) o kilocalorías (kcal), es importante tener presente que la caloría es una medida de calor que consiste en transferir calor físicamente para aumentar la temperatura de un gramo de agua en un grado, entonces se puede decir que una kilocaloría equivale a 1000 calorías.
-        p.mb-0  La dieta de las personas adultas está compuesta de 1000 a 5000 kilocalorías por día. Todos los nutrientes presentes en los alimentos tienen un valor energético diferente, por eso se toman valores estándar para cada grupo, por ejemplo, un gramo de un glúcido al quemarse libera cuatro (4) kilocalorías, lo mismo ocurre con las proteínas que liberan cuatro (4) kilocalorías, en cambio las grasas al quemarse producen nueve (9) kilocalorías, por eso los alimentos ricos en grasas constituyen un aporte mayor en cuanto a su contenido energético. La reserva de energía que el cuerpo humano almacena es en forma de grasa.
+        p.mb-5  El valor energético de un alimento es la cantidad de energía que este aporta al cuerpo humano y resulta de la combustión de los lípidos, proteínas y glúcidos. Esta energía es utilizada por el cuerpo para mantener la temperatura y realizar todas sus funciones; se expresa en calorías (cal) o kilocalorías (kcal), es importante tener presente que la caloría es una medida de calor que consiste en transferir calor físicamente para aumentar la temperatura de un gramo de agua en un grado, entonces se puede decir que una kilocaloría equivale a 1000 calorías.
+        p.mb-0  La dieta de las personas adultas está compuesta de 1000 a 5000 kilocalorías por día. Todos los nutrientes presentes en los alimentos tienen un valor energético diferente, por eso se toman valores estándar para cada grupo, por ejemplo, un gramo de un glúcido al quemarse libera cuatro (4) kilocalorías, lo mismo ocurre con las proteínas que liberan cuatro (4) kilocalorías, en cambio, las grasas al quemarse producen nueve (9) kilocalorías, por eso los alimentos ricos en grasas constituyen un aporte mayor en cuanto a su contenido energético. La reserva de energía que el cuerpo humano almacena es en forma de grasa.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
@@ -32,7 +32,7 @@
         h3.mb-0.fnd-2-1.fnd-2 Tablas de composición de los alimentos.
     .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-lg-9
-        p En las tablas de composición de un alimento está descrito cuántas kilocalorías tiene un alimento y cuánto tiene de proteínas, lípidos y glúcidos. Entonces para saber el total de calorías de un alimento se debe saber cuántos gramos de cada nutriente contiene para después multiplicarlo por el valor calórico, por ejemplo, una porción de helado tiene:
+        p En las tablas de composición de un alimento está descrito cuántas kilocalorías tiene un alimento y cuánto tiene de proteínas, lípidos y glúcidos. Entonces, para saber el total de calorías de un alimento, se debe saber cuántos gramos de cada nutriente contiene para después multiplicarlo por el valor calórico, por ejemplo, una porción de helado tiene:
         .row.mb-4.pe-lg-3.align-items-center
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/check.svg")
@@ -54,7 +54,7 @@
           .col.px-0
             p.mb-0 <b>Calorías totales:</b> 200 kcal.                  
 
-        p.mb-4 Necesidades energéticas del ser humano y el valor energético de los Alimentos. El consumo diario de energía depende de lo que requiera el cuerpo. Cuando se habla de consumo diario se hace referencia a la cantidad de energía que gasta elcuerpo para suplir todas sus necesidades; este factor se llama Gasto calórico total.
+        p.mb-4 Necesidades energéticas del ser humano y el valor energético de los alimentos. El consumo diario de energía depende de lo que requiera el cuerpo. Cuando se habla de consumo diario, se hace referencia a la cantidad de energía que gasta elcuerpo para suplir todas sus necesidades; este factor se llama gasto calórico total.
         p.mb-3 Los requerimientos diarios de energía se calculan como la suma de los siguientes factores:
                   
       .col-lg-3.col-md-6.mb-md-5
@@ -82,7 +82,7 @@
 
     .row(data-aos="fade-right")
       .col-auto.mb-3
-        h3.mb-0.fnd-2-1.fnd-2 Tasa de Metabolismo basal (TMB):     
+        h3.mb-0.fnd-2-1.fnd-2 Tasa de Metabolismo Basal (TMB):     
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -90,7 +90,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img-5.png')
       .col-lg-9
-        p Hace referencia a la cantidad mínima de energía que el organismo requiere para que el cuerpo se mantenga despierto o en reposo y cumplir todas sus actividades vitales como respiración, presión arterial, latidos del corazón, entre otras. El metabolismo basal depende de factores como:
+        p Hace referencia a la cantidad mínima de energía que el organismo requiere para que el cuerpo se mantenga despierto o en reposo y cumpla todas sus actividades vitales como respiración, presión arterial, latidos del corazón, entre otras. El metabolismo basal depende de factores como:
         .row.mb-3.pe-lg-3.align-items-center
           .col-auto.pe-2
             img(src="@/assets/curso/temas/tema1/check.svg")
@@ -147,7 +147,7 @@
           .col-auto.mb-3
             h3.mb-0.fnd-2-1.fnd-2 Efecto térmico de los alimentos:
               
-        p Este factor está representado por la cantidad de energía que utiliza el organismo para procesos como digestión, absorción, metabolismo y almacenamiento de los nutrientes que dan energía. Diariamente el organismo consume alrededor de un 10% de energía en los procesos antes mencionados.  
+        p Este factor está representado por la cantidad de energía que utiliza el organismo para procesos como digestión, absorción, metabolismo y almacenamiento de los nutrientes que dan energía. Diariamente, el organismo consume alrededor de un 10% de energía en los procesos antes mencionados.  
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")
       .col-auto.pe-2
@@ -217,14 +217,14 @@
         h3.mb-0 Método FAO, OMS y UNU
     p A continuación, se exponen las ecuaciones para calcular el gasto energético en reposo, elaboradas por expertos de la Organización de las Naciones Unidas para la Alimentación y la Agricultura, la Universidad de las Naciones Unidas y la Organización Mundial de la Salud:
 
-    p.mb-5 Para calcular el gasto energético en reposo se puede utilizar el método de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), la Organización Mundial de la Salud (OMS) y la Universidad de las Naciones Unidas (UNU): 1. Se calcula el gasto energético en reposo (GER) con las ecuaciones de la FAO, OMS y UNU. En esta ecuación se incluye el efecto térmico de los alimentos. 2. El gasto energético en reposo (GER) se multiplica por la constante del factor de actividad física.
+    p.mb-5 Para calcular el gasto energético en reposo se puede utilizar el método de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), la Organización Mundial de la Salud (OMS) y la Universidad de las Naciones Unidas (UNU): 1. Se calcula el Gasto Energético en Reposo (GER) con las ecuaciones de la FAO, OMS y UNU. En esta ecuación se incluye el efecto térmico de los alimentos. 2. El Gasto Energético en Reposo (GER) se multiplica por la constante del factor de actividad física.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-8
         .n-box
           .contt
-            p <b>Ejercicio como ejemplo: Cálculo del gasto energético total (GET)</b> 
+            p <b>Ejercicio como ejemplo: Cálculo del Gasto Energético Total (GET)</b> 
             p Calcular el gasto energético total de una mujer de 30 años que mide 1.59 m, pesa 55 kg y cuyo índice de masa corporal (IMC) es de 20, lo cual se considera adecuado. Ella realiza actividad física leve, pues es profesora en una universidad y en las tardes camina durante 20 minutos para llegar a su casa.
           img.user(src="@/assets/curso/temas/tema3/img-9.png")
 
@@ -232,8 +232,8 @@
       .col-lg-10
         .row
           .col-auto.mb-3
-            h3.mb-0.fnd-2-1.fnd-2 Gasto energético en reposo (GER):
-        p Para hallar el gasto energético en reposo de esta mujer de 30 años se debe tener en cuenta la Tabla 1 del modelo de la FAO, OMS y UNU donde: la ecuación para estimar el gasto energético en reposo para una mujer de 30 años es la siguiente:
+            h3.mb-0.fnd-2-1.fnd-2 Gasto Energético en Reposo (GER):
+        p Para hallar el gasto energético en reposo de esta mujer de 30 años se debe tener en cuenta la Tabla 1 del modelo de la FAO, OMS y UNU dónde: la ecuación para estimar el gasto energético en reposo para una mujer de 30 años es la siguiente:
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         .row.justify-content-center.align-items-center.fnd-12

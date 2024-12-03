@@ -7,7 +7,7 @@
         span 2
       h1 Vitaminas
 
-    p Las vitaminas son compuestos orgánicos que el hombre necesita en dosis bajas para que el cuerpo se desarrolle adecuadamente; es necesario ingerirlas pues el organismo no tiene la capacidad de producirlas, con excepción de unas cuantas. Las vitaminas se pueden obtener de los alimentos. En total el ser humano necesita de 12 vitaminas diferentes las cuales son: A, C, D, K y B en sus ocho variedades, estos compuestos en el cuerpo humano desempeñan funciones específicas y cuando hay deficiencia de éstas en la dieta se pueden desarrollar enfermedades.  
+    p Las vitaminas son compuestos orgánicos que el hombre necesita en dosis bajas para que el cuerpo se desarrolle adecuadamente; es necesario ingerirlas pues el organismo no tiene la capacidad de producirlas, con excepción de unas cuantas. Las vitaminas se pueden obtener de los alimentos. En total el ser humano necesita de 12 vitaminas diferentes las cuales son: A, C, D, K y B en sus ocho variedades, estos compuestos en el cuerpo humano desempeñan funciones específicas y cuando hay deficiencia de estas en la dieta se pueden desarrollar enfermedades.  
 
     p <b>Clasificación de las vitaminas:</b> situaciones de riesgo de deficiencia vitamínica.
 
@@ -67,7 +67,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9.order-2.order-lg-1
         p En los animales se encuentra como retinol y en los vegetales se encuentra como provitamina A que es conocida como carotenoides. 
-        p <b>Estructura química - actividad biológica:</b> De acuerdo con la gráfica anterior, el retinol y los carotenoides tienen la capacidad antioxidante, pero ésta es mayor en los carotenoides por tener un sistema de dobles enlaces conjugados más largos.
+        p <b>Estructura química - actividad biológica:</b> De acuerdo con la gráfica anterior, el retinol y los carotenoides tienen la capacidad antioxidante, pero esta es mayor en los carotenoides por tener un sistema de dobles enlaces conjugados más largos.
 
         .row.d-flex
           .col-lg-6.fnd-3.px-lg-5.py-lg-5
@@ -164,7 +164,7 @@
             img(src="@/assets/curso/temas/tema2/img-5.svg", alt="alt")          
           .crd_03__txt
             p.mb-1 <b>Síntesis de la serotonina.</b>
-            p.mb-1 • Triptófano 5 - hidroxitriptófano.
+            p.mb-1 • Triptófano 5-hidroxitriptófano.
 
       .col-lg-4
         .crd_03.mb-5
@@ -287,7 +287,7 @@
           img(src='@/assets/curso/temas/tema1/img-4.svg')
       .col-auto.px-0
         h3.mb-0 Minerales
-    p.mb-3 Los minerales son sustancias naturales que están compuestas por moléculas formadas por átomos de uno o más elementos químicos. Estas son muy importantes para la salud del cuerpo humano ya que aportan los nutrientes necesarios para su correcto funcionamiento. Los minerales se dividen en dos clasificaciones:
+    p.mb-3 Los minerales son sustancias naturales que están compuestas por moléculas formadas por átomos de uno o más elementos químicos. Estas son muy importantes para la salud del cuerpo humano, ya que aportan los nutrientes necesarios para su correcto funcionamiento. Los minerales se dividen en dos clasificaciones:
     p.mb-0 <b>Los macrominerales:</b> son aquellos que se deben consumir en cantidades considerables. Entre ellos está el azufre, cloro, calcio, fósforo, magnesio, potasio y sodio.
     p <b>Los micro minerales:</b> corresponden al grupo que se deben ingerir en cantidades mínimas. Entre ellos se encuentra el cobre, zinc, hierro, manganeso, yodo, flúor, cobalto y selenio.
    
@@ -323,7 +323,7 @@
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Potasio:</b> es considerado como el principal catión en el interior de las células, participa en el equilibrio del nivel de agua en las células y también influencia en las propiedades eléctricas de éstas.
+                  p.mb-0 <b>Potasio:</b> es considerado como el principal catión en el interior de las células, participa en el equilibrio del nivel de agua en las células y también influencia en las propiedades eléctricas de estas.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
@@ -333,7 +333,7 @@
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Azufre:</b> se encarga de regular la estructura de los tejidos conectivos que se encuentran en la piel y además de esto hace parte de las enzimas.
+                  p.mb-0 <b>Azufre:</b> se encarga de regular la estructura de los tejidos conectivos que se encuentran en la piel y, además de esto, hace parte de las enzimas.
 
 
             .col-lg-4.col-md-6
@@ -341,13 +341,13 @@
                 img(src='@/assets/curso/temas/tema2/img-9.png') 
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-md-5
-              h5 Los micro minerales.	
+              h5 Los microminerales.	
               p Cumplen funciones similares tales como:
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Hierro: </b> apoya las proteínas como la hemoglobina de la sangre, el citocromo en el transporte de energía y la catalasa que actúa como catalizador y reductor de otras sustancias.
+                  p.mb-0 <b>Hierro: </b> apoya las proteínas como la hemoglobina de la sangre, el citocromo en el transporte de energía y la catalasa, que actúa como catalizador y reductor de otras sustancias.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
@@ -357,7 +357,7 @@
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")
                 .col.px-0
-                  p.mb-0 <b>Zinc:</b> permite que el sistema inmunitario tras baje apropiadamente.
+                  p.mb-0 <b>Zinc:</b> permite que el sistema inmunitario trabaje apropiadamente.
               .row.pe-lg-3.row.justify-content-center
                 .col-auto.pe-2.mt-2
                   img(src="@/assets/curso/temas/tema1/check.svg")

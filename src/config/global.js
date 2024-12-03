@@ -143,7 +143,7 @@ export default {
     {
       termino: 'Disacáridos',
       significado:
-        'están formados por dos monosacáridos y son los azucares más abundantes de los alimentos, los más conocidos son la sacarosa, lactosa y maltosa.',
+        'están formados por dos monosacáridos y son los azúcares más abundantes de los alimentos, los más conocidos son la sacarosa, lactosa y maltosa.',
     },
     {
       termino: 'Enzimas',
@@ -188,7 +188,7 @@ export default {
     {
       termino: 'Monosacáridos',
       significado:
-        'Son azucares simples compuestos de tres a siete átomos de carbono, en este grupo se encuentra la glucosa y la fructosa.',
+        'Son azúcares simples compuestos de tres a siete átomos de carbono, en este grupo se encuentra la glucosa y la fructosa.',
     },
     {
       termino: 'Mucina',
@@ -251,14 +251,14 @@ export default {
     },
     {
       referencia:
-        'Corine, H. (182). Fundamentos de Nutrición. México: Continental.',
+        'Corine, H. (182). Fundamentos de Nutrición. México: continental.',
     },
     {
       referencia: 'Elsevier. (2013). Nutrición comunicaría. España: MASSON.',
     },
     {
       referencia:
-        'Hernández, D. R. (20 de Enero de 2015). Medicina Preventiva Santa Fe. Recuperado el junio 2017,de  Hernández, M. y. (1999). Tratado de Nutrición. Madrid, España: Diaz de Santos SA. ',
+        'Hernández, D. R. (20 de enero de 2015). Medicina Preventiva Santa Fe. Recuperado el junio 2017,de  Hernández, M. y. (1999). Tratado de Nutrición. Madrid, España: Diaz de Santos SA. ',
       link:
         'http://medicinapreventiva.info/generalidades/10231/conozca-el-papel-fundamental-de-las-proteinas-para-la-salud-por-linternista/',
     },
@@ -287,7 +287,7 @@ export default {
     },
     {
       referencia:
-        'Vasquez, C. c. (2005). Alimentación y Nutrición: Manual teórico Práctico. Madrid, España: Ediciones Diaz de Santos SA.',
+        'Vasquez, C. c. (2005). Alimentación y Nutrición: manual teórico Práctico. Madrid, España: Ediciones Diaz de Santos SA.',
     },
   ],
   creditos: [

@@ -123,7 +123,7 @@
       .col-auto.px-0
         h3.mb-0 Monosacáridos
 
-    p.mb-4 En este grupo se encuentran la glucosa y la fructosa que son monosacáridos simples y están compuestos por seis átomos de carbono. No tienen la capacidad de hidrolizarse, lo que quiere decir que no reaccionan en presencia de agua para dividirse y formar nuevas estructuras. Este grupo de azúcares son los más sencillos de los carbohidratos, las demás clasificaciones de hidratos de carbono se descomponen en estos. Los monosacáridos se oxidan con facilidad y pueden realizar combustión con las moléculas de oxígeno, dando como resultado una fuente de energía para las células, lo que permite que el cuerpo funcione correctamente.  
+    p.mb-4 En este grupo se encuentran la glucosa y la fructosa, que son monosacáridos simples y están compuestos por seis átomos de carbono. No tienen la capacidad de hidrolizarse, lo que quiere decir que no reaccionan en presencia de agua para dividirse y formar nuevas estructuras. Este grupo de azúcares son los más sencillos de los carbohidratos, las demás clasificaciones de hidratos de carbono se descomponen en estos. Los monosacáridos se oxidan con facilidad y pueden realizar combustión con las moléculas de oxígeno, dando como resultado una fuente de energía para las células, lo que permite que el cuerpo funcione correctamente.  
 
     .row.justify-content-center.align-items-center.mb-5.fnd-8.p-lg-5.p-md-3(data-aos="zoom-in")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
@@ -160,7 +160,7 @@
       .col-auto.px-0
         h3.mb-0 Disacáridos
 
-    p Son los azúcares más abundantes en los alimentos, entre los más conocidos está la sacarosa, la lactosa y la maltosa que se conforman por la unión de dos monosacáridos que por hidrólisis en la digestión se convierten en hexosas. Este grupo de azúcares son importantes en la dieta de las personas porque aporta energía, componente esencial en el funcionamiento de los músculos.  
+    p Son los azúcares más abundantes en los alimentos, entre los más conocidos está la sacarosa, la lactosa y la maltosa, que se conforman por la unión de dos monosacáridos que por hidrólisis en la digestión se convierten en hexosas. Este grupo de azúcares son importantes en la dieta de las personas porque aporta energía, componente esencial en el funcionamiento de los músculos.  
     .row.justify-content-center.align-items-center.mb-5.fnd-8-2.p-lg-5.p-md-3(data-aos="fade-right")
       .col-lg-12.fnd-8-1.p-lg-5.p-md-3
         SlyderA(tipo="b")
@@ -201,7 +201,7 @@
         .row.align-items-center.mb-0
           .col-lg-6.col-md-8
             h5 Almidón
-            p.mb-0 este compuesto es un polisacárido que se encuentra en legumbres, cereales como el arroz, en frutas, semillas, en tubérculos como las papas y en las plantas, y cuya función principal es almacenar energía para que los seres humanos puedan digerir con facilidad los almidones. Es necesario cocinarlos o tostarlos, ya que la digestibilidad del almidón depende de la complejidad de las cadenas de glucosa que los forma.
+            p.mb-0 este compuesto es un polisacárido que se encuentra en legumbres, cereales como el arroz, en frutas, semillas, en tubérculos como las papas y en las plantas, y cuya función principal es almacenar energía para que los seres humanos puedan digerir con facilidad los almidones. Es necesario cocinarlos o tostarlos, ya que la digestibilidad del almidón depende de la complejidad de las cadenas de glucosa que los forman.
           .col-lg-6.col-md-4.p-0          
             figure
               img(src='@/assets/curso/temas/tema1/img-15.png')
@@ -209,7 +209,7 @@
         .row.align-items-center.mb-0
           .col-lg-6.col-md-8 
             h5 Glucógeno
-            p.mb-0 Al igual que el almidón, el glucógeno es un polisacárido que sirve como reserva energética y está conformado por cadenas de glucosa. Es insoluble en el agua y cuando se mezcla con ésta, forma dispersiones de sólidos coloidales. Posterior a la digestión de este carbohidrato se almacena en el hígado y se reparte en menor proporción en los músculos de las personas.
+            p.mb-0 Al igual que el almidón, el glucógeno es un polisacárido que sirve como reserva energética y está conformado por cadenas de glucosa. Es insoluble en el agua y cuando se mezcla con esta, forma dispersiones de sólidos coloidales. Posterior a la digestión de este carbohidrato se almacena en el hígado y se reparte en menor proporción en los músculos de las personas.
           .col-lg-6.col-md-4.p-0         
             figure
               img(src='@/assets/curso/temas/tema1/img-16.png')
@@ -292,7 +292,7 @@
                 .col.px-0
                   p.mb-0 Capacidad de retener agua.
 
-              p.mb-4 <b>Efectos beneficiosos de la fibra alimentaria frente a la diabetes:</b> el requerimiento de insulina en un adulto diabético insulinodependiente tipo l se reduce en un 40% aproximadamente y en uno insulinodependiente tipo II puede llegar a reducirse de un 80% a 100%.
+              p.mb-4 <b>Efectos beneficiosos de la fibra alimentaria frente a la diabetes:</b> el requerimiento de insulina en un adulto diabético insulinodependiente tipo l se reduce en un 40% aproximadamente y en un insulinodependiente tipo II puede llegar a reducirse de un 80% a 100%.
             .row.align-items-center
               .col-auto.mb-3
                 h3.mb-0.fnd-2-1.fnd-2 Mecanismos de acción:
@@ -320,7 +320,7 @@
 
     p.mb-4 A continuación, se describen algunas de estas funciones:
 
-    p.mb-4 Las proteínas son vitales en el organismo, regulando el agua y el pH celular. Actúan como anticuerpos en el sistema inmunológico y son esenciales para la coagulación sanguínea. También transportan sustancias, como oxígeno a través de la hemoglobina y lípidos mediante lipoproteínas, desempeñando un papel crucial en la salud y el funcionamiento del cuerpo. 
+    p.mb-4 Las proteínas son vitales en el organismo, regulando el agua y el pH celular. Actúan como anticuerpos en el sistema inmunitario y son esenciales para la coagulación sanguínea. También transportan sustancias, como oxígeno, a través de la hemoglobina y lípidos mediante lipoproteínas, desempeñando un papel crucial en la salud y el funcionamiento del cuerpo. 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-md-6.mb-5
         figure
@@ -328,13 +328,13 @@
       .col-lg-9
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-9")
             div(titulo="Función reguladora:")
-              p Algunas proteínas se encargan de regular la cantidad de agua presente en las células a lo que se le conoce como el equilibrio osmótico. Éstas procuran que en la célula no haya ganancia ni pérdida de agua. Las proteínas también son las encargadas de regular el nivel de pH en el interior de estas.
+              p Algunas proteínas se encargan de regular la cantidad de agua presente en las células, a lo que se le conoce como el equilibrio osmótico. Éstas procuran que en la célula no haya ganancia ni pérdida de agua. Las proteínas también son las encargadas de regular el nivel de pH en el interior de estas.
             div(titulo="Función defensiva:")
-              p Las proteínas también desempeñan funciones en el sistema inmunológico del cuerpo; por ejemplo, las inmunoglobulinas actúan como anticuerpos frente a agentes patógenos. Proteínas como la trombina o el fibrinógeno ayudan a la formación de coágulos en la sangre, lo que sirve para prevenir hemorragias. Además, algunas proteínas ayudan a eliminar los gérmenes que atacan al cuerpo.
+              p Las proteínas también desempeñan funciones en el sistema inmunitario del cuerpo; por ejemplo, las inmunoglobulinas actúan como anticuerpos frente a agentes patógenos. Proteínas como la trombina o el fibrinógeno ayudan a la formación de coágulos en la sangre, lo que sirve para prevenir hemorragias. Además, algunas proteínas ayudan a eliminar los gérmenes que atacan al cuerpo.
             div(titulo="Función de transporte:")
               p Las proteínas sirven para transportar diferentes sustancias en el interior del cuerpo humano hacia los lugares en donde se necesitan (la hemoglobina es una proteína que se encarga de transportar oxígeno a través de la sangre). En el interior de los músculos el oxígeno es transportado por una proteína llamada la mioglobina. Otro tipo de proteínas llamadas lipoproteínas se encargan de transportar los lípidos en la sangre.
             div(titulo="Función contráctil:")
-              p Las proteínas en los músculos son las encargadas de regular los procesos de contracción y estiramiento. Proteínas como la actina y la miosina se encargan de construir las denominadas miofibras de los músculos que son las responsables de las contracciones.
+              p Las proteínas en los músculos son las encargadas de regular los procesos de contracción y estiramiento. Proteínas como la actina y la miosina se encargan de construir las denominadas microfibras de los músculos que son las responsables de las contracciones.
 
 
 
@@ -545,7 +545,7 @@
           .col-auto.pe-2.pt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
           .col.px-0
-            p.mb-0 Aportan a la dieta ácidos grasos esenciales como linoleico y alfalinolénico, puesto que estos no son producidos por el organismo.
+            p.mb-0 Aportan a la dieta ácidos grasos esenciales como linoleico y alfa-linolénico, puesto que estos no son producidos por el organismo.
         .row.pe-lg-3.row.justify-content-center
           .col-auto.pe-2.pt-2
             img(src="@/assets/curso/temas/tema1/check.svg")
@@ -592,7 +592,7 @@
             .col-md-8.mb-4.mb-md-0
               h5 Omega 3, 6 y 9
               p Los ácidos omegas 3 y 6 son ácidos grasos poliinsaturados mientras que el omega 9 es un ácido graso monoinsaturado; se consideran así porque carecen de átomos de hidrógeno. El organismo humano no puede producir estos ácidos, pero sí los necesita para su correcto funcionamiento.
-              p Estos ayudan a la formación de las membranas celulares, de las hormonas, del correcto funcionamiento del sistema inmunológico y del funcionamiento de las neuronas.
+              p Estos ayudan a la formación de las membranas celulares, de las hormonas, del correcto funcionamiento del sistema inmunitario y del funcionamiento de las neuronas.
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema1/img-26.png')
