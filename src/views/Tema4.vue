@@ -24,7 +24,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-9     
         p El cuerpo está compuesto de agua distribuida en todos los tejidos, que corresponde aproximadamente a las dos terceras partes del peso corporal de un individuo. Las tres cuartas partes están en el compartimiento intracelular, es decir, en el fluido que está dentro de la célula, mientras la cuarta parte restante se encuentra en el compartimiento extracelular que influye en la circulación sanguínea, la linfa y los fluidos intersticiales que cubren a todas las células. En los tejidos varía el contenido de agua dependiendo de su naturaleza, por ejemplo, los huesos, dientes y el tejido adiposo contienen poca cantidad. 
-        p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nacido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa que puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
+        p Las proteínas y las grasas constituyen cada una el 18% del peso corporal, variando considerablemente según la cantidad de depósitos de grasa. Por ejemplo, en un bebé recién nácido su reserva adiposa es relativamente baja, pero en un adulto obeso el porcentaje de grasa que puede exceder en un amplio margen al de proteínas. En el cuerpo solamente se encuentran presentes 350 gramos de carbohidratos que son una fuente principal de combustible y sólo una cantidad de éstos se localiza dentro de la estructura de los tejidos.
    
       .col-lg-3.col-md-6
         figure
@@ -143,35 +143,34 @@
                 td Acción
             tbody
               tr
-                td Gastrina
-                td Mucosa del píloro y el duodeno
-                td
-                  | Alimento en el estómago, especialmente proteínas y cafeína, especias y alcoholes.
+                td Gastrina.
+                td Mucosa del píloro y el duodeno.
+                td Alimento en el estómago, especialmente proteínas y cafeína, especias y alcoholes.
                 td Estimula el flujo del jugo gástrico.
               tr
-                td Enterogástrica
-                td Duodeno
-                td Quimo acido y grasa
+                td Enterogástrica.
+                td Duodeno.
+                td Quimo ácido y grasa.
                 td Inhibe la secreción del jugo gástrico y reduce la motilidad.
               tr
-                td Colecistoquinina
-                td Duodeno
-                td Grasa en el duodeno
+                td Colecistoquinina.
+                td Duodeno.
+                td Grasa en el duodeno.
                 td Contracción de la vesícula bilar y flujo de bilisalduodeno.
               tr
-                td Secretina
-                td Duodeno
-                td Quimo acido y polipéptidos.
+                td Secretina.
+                td Duodeno.
+                td Quimo ácido y polipéptidos.
                 td Secreción del jugo pancreático delgado, alcalino y pobre en encimas.
               tr
-                td Pancreozimina
-                td Duodeno y yeyuno
-                td Quimo acido y polipéptidos.
+                td Pancreozimina.
+                td Duodeno y yeyuno.
+                td Quimo ácido y polipéptidos.
                 td Secreción del jugo pancreático viscoso, rico en enzimas.
               tr
-                td Enterocrinina
-                td Intestino delgado superior
-                td Quimo
+                td Enterocrinina.
+                td Intestino delgado superior.
+                td Quimo.
                 td Secreción de las glándulas de la mucosa intestinal.
 
     .row.mb-4.pe-lg-3.align-items-center(data-aos="fade-left")

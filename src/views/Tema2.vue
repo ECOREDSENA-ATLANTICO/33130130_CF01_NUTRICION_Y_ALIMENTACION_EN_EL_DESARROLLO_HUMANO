@@ -122,7 +122,7 @@
                   td Niacina
                 tr
                   td B5
-                  td Acido pantoténico
+                  td ácido pantoténico
                 tr
                   td B6
                   td Piridoxina
@@ -131,7 +131,7 @@
                   td Biotina
                 tr 
                   td.tbb B9
-                  td.tbb Acido fólico
+                  td.tbb ácido fólico
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
